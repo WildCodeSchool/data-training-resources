@@ -1,0 +1,17 @@
+machine_id,position_x,position_y,brand,model,cost,install_time
+E_000,3,4,Resona Technologies,RT-1000,14999,2022-05-01T08:00:00
+E_001,3,16,HyperVibe,Vibe Seven,5999,2022-05-01T08:20:00
+E_002,27,4,Tuned Machinery,Model A,2499,2022-05-01T08:40:00
+E_003,27,16,RumbleCorp,SambA,4999,2022-05-01T09:00:00
+E_004,3,52,Tuned Machinery,Model A,2499,2022-05-01T09:20:00
+E_005,3,64,Resona Technologies,RT-2000,14999,2022-05-01T09:40:00
+E_006,27,52,HyperVibe,Vibe Eight,5999,2022-05-01T10:00:00
+E_007,27,64,Momentum Inc,Adamantium,1999,2022-05-01T10:20:00
+E_008,63,4,Momentum Inc,Vibranium,1999,2022-05-01T10:40:00
+E_009,63,16,Tuned Machinery,Model B,2499,2022-05-01T11:00:00
+E_010,87,4,HyperVibe,Vibe Three,5999,2022-05-01T11:20:00
+E_011,87,16,Momentum Inc,Vibranium,1999,2022-05-01T11:40:00
+E_012,63,52,HyperVibe,Vibe Eight,5999,2022-05-01T12:00:00
+E_013,63,64,RumbleCorp,RumbA,4999,2022-05-01T12:20:00
+E_014,87,52,Tuned Machinery,Model B,2499,2022-05-01T12:40:00
+E_015,87,64,HyperVibe,Vibe Eight,5999,2022-05-01T13:00:00
