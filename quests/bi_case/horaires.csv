@@ -1,0 +1,714 @@
+﻿Identifiant de l'équipement;Equipement;Période;Date de début;Date de fin;Jour de la semaine;Date de l'exception;Heure de début;Heure de fin;Type d'horaire
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;mercredi;;00:00;23:59;Ouverture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;jeudi;;00:00;23:59;Ouverture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;vendredi;;00:00;23:59;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;samedi;;10:00;12:30;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;samedi;;13:30;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;mardi;;12:00;20:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;mercredi;;10:00;19:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;samedi;;10:00;19:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:00;18:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;vendredi;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;mardi;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;jeudi;;14:00;18:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;lundi;;13:30;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;mercredi;;11:00;19:00;Ouverture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;2021-12-15;2022-06-30;vendredi;;13:00;18:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;mercredi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;vendredi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;jeudi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;mercredi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;mardi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;jeudi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;samedi;;13:30;18:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;samedi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;mardi;;09:00;20:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;samedi;;09:00;20:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;mardi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;vendredi;;10:00;12:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;lundi;;09:30;13:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;lundi;;14:00;18:00;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;mercredi;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;mercredi;;10:00;19:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;samedi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;mercredi;;10:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;mercredi;;11:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;jeudi;;11:00;21:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;mardi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;mardi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;vendredi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;samedi;;10:00;12:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:30;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:30;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;13:30;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;19:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;19:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;12:00;19:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;12:00;19:00;Ouverture
+26;Médiathèque Nord Luce Courville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+4863;Bibliothèque de La Halvêque;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-18;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-04-18;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-02-06;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-08;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-06-06;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-03;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-26;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-06-06;;;Fermeture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;;;;2022-05-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;;;;2022-01-27;;;Fermeture
+146;Planétarium;2022;;;;2022-01-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-05-26;;;Fermeture
+4969;Le Chronographe;septembre à juin;;;;2022-05-08;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2022-11-01;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-01-01;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-05-08;;;Fermeture
+133;Musée de l'Imprimerie;2022;;;;2022-05-26;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-23;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-27;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-04;;;Fermeture
+146;Planétarium;2022;;;;2022-09-06;;;Fermeture
+146;Planétarium;2022;;;;2022-09-08;;;Fermeture
+146;Planétarium;2022;;;;2022-09-13;;;Fermeture
+146;Planétarium;2022;;;;2022-09-19;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-10-02;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-08;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-09-04;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-02;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-08;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-02;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;lundi;;14:00;19:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:00;18:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;samedi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;samedi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;dimanche;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;vendredi;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;lundi;;09:30;13:00;Ouverture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;2021-12-15;2022-06-30;dimanche;;13:00;19:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac noel 2021;2021-12-20;2022-01-02;mercredi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac noel 2021;2021-12-20;2022-01-02;jeudi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;mardi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;mercredi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;vendredi;;16:15;18:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;lundi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;jeudi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;lundi;;09:00;20:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;vendredi;;14:00;17:30;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;mardi;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;dimanche;;10:00;19:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;mercredi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;lundi;;10:00;19:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;jeudi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;mercredi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;vendredi;;14:00;17:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;12:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;13:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;12:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:30;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;jeudi;;11:00;15:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;jeudi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+2227;Maison de l'Erdre;1er sept au 21 octobre 2022;2022-09-01;2022-10-21;dimanche;;10:00;12:30;Ouverture
+2227;Maison de l'Erdre;1er sept au 21 octobre 2022;2022-09-01;2022-10-21;dimanche;;14:00;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-26;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-06-06;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-17;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-26;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-08;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-02-06;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-08;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-06-06;;;Fermeture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;;;;2022-01-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-02-16;;;Fermeture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;;;;2022-01-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-15;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-06-06;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-04-10;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-05-01;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-28;;;Fermeture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2023-05-01;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-03;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2022-11-01;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-05-29;;;Fermeture
+146;Planétarium;2022;;;;2022-09-02;;;Fermeture
+146;Planétarium;2022;;;;2022-09-05;;;Fermeture
+146;Planétarium;2022;;;;2022-09-12;;;Fermeture
+146;Planétarium;2022;;;;2022-09-16;;;Fermeture
+146;Planétarium;2022;;;;2022-09-18;;;Fermeture
+146;Planétarium;2022;;;;2022-09-23;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-02-05;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-03-05;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-03-05;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-04;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2022-12-24;11:00;17:00;Ouverture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;dimanche;;00:00;23:59;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;jeudi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;12:30;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;jeudi;;12:00;19:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;mercredi;;14:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;vendredi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;mardi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;jeudi;;10:00;18:00;Ouverture
+3987;La Fabrique Ile de Nantes - Stereolux;billetterie horaires déc 2021 à déc 2022;2021-12-02;2022-12-31;vendredi;;12:00;18:30;Ouverture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;2021-12-15;2022-06-30;mercredi;;13:00;18:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac noel 2021;2021-12-20;2022-01-02;mercredi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac noel 2021;2021-12-20;2022-01-02;jeudi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;jeudi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;mercredi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;jeudi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;jeudi;;16:15;18:30;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;samedi;;14:00;19:00;Ouverture
+4969;Le Chronographe;sept 2022 à juin 2023;2022-09-01;2023-06-30;jeudi;;14:00;18:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;mercredi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;jeudi;;14:00;17:30;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;lundi;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;vendredi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;vendredi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;mardi;;10:00;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;vendredi;;10:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;samedi;;10:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;samedi;;11:00;19:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;lundi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;mercredi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;mercredi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;samedi;;14:00;17:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:30;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;jeudi;;13:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:30;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;12:30;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;samedi;;11:00;15:00;Ouverture
+26;Médiathèque Nord Luce Courville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+26;Médiathèque Nord Luce Courville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;samedi;;11:00;15:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+2227;Maison de l'Erdre;1er sept au 21 octobre 2022;2022-09-01;2022-10-21;samedi;;10:00;12:30;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-01-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-01-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-04-17;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-26;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-17;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-03;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-18;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;;;;2022-01-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-09;14:00;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-05-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-02-15;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-02-18;;;Fermeture
+146;Planétarium;2022;;;;2022-12-25;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-12;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-24;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-30;;;Fermeture
+5079;Le miroir d'eau;Horaires annuels;;;;2022-06-22;;;Fermeture
+5079;Le miroir d'eau;Horaires annuels;;;;2022-06-24;;;Fermeture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2023-01-01;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2022-12-25;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2022-12-25;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-15;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-05-01;;;Fermeture
+146;Planétarium;2022;;;;2022-09-01;;;Fermeture
+146;Planétarium;2022;;;;2022-09-15;;;Fermeture
+146;Planétarium;2022;;;;2022-09-27;;;Fermeture
+146;Planétarium;2022;;;;2022-09-28;;;Fermeture
+146;Planétarium;2022;;;;2022-10-01;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-06;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-08;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-02-05;14:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;vendredi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;mercredi;;10:00;12:30;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:30;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;19:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:00;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;lundi;;14:00;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;dimanche;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;mercredi;;09:30;13:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;vendredi;;09:30;13:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;jeudi;;13:30;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;vendredi;;11:00;19:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;vendredi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;jeudi;;16:15;18:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;jeudi;;09:00;20:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;lundi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;mardi;;14:00;17:30;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;mercredi;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;jeudi;;09:30;13:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;jeudi;;14:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;jeudi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;mardi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;jeudi;;10:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;jeudi;;10:00;21:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;lundi;;11:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;jeudi;;11:00;21:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;vendredi;;14:00;17:30;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;12:30;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;jeudi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;samedi;;11:00;17:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-04-17;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-06-06;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-18;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-03-06;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-03;14:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;;;;2022-01-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;;;;2022-05-01;;;Fermeture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;;;;2022-05-26;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-13;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-14;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-25;;;Fermeture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2022-12-25;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-09;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-12;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2022-11-11;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-01-01;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-04-09;;;Fermeture
+146;Planétarium;2022;;;;2022-08-15;13:30;18:00;Ouverture
+146;Planétarium;2022;;;;2022-09-25;;;Fermeture
+146;Planétarium;2022;;;;2022-09-29;;;Fermeture
+146;Planétarium;2022;;;;2022-09-30;;;Fermeture
+146;Planétarium;2022;;;;2022-10-04;;;Fermeture
+146;Planétarium;2022;;;;2022-10-07;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-02;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-09-04;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-06;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2022-12-31;11:00;17:00;Ouverture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;mardi;;00:00;23:59;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;12:30;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;mardi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;mercredi;;13:30;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;13:30;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;2021-08-29;2022-07-10;vendredi;;12:00;19:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;19:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;jeudi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;mardi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;mercredi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;jeudi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;samedi;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;lundi;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;mardi;;09:30;13:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;mardi;;10:00;12:30;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;jeudi;;10:00;12:30;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;lundi;;11:00;19:00;Ouverture
+3987;La Fabrique Ile de Nantes - Stereolux;billetterie horaires déc 2021 à déc 2022;2021-12-02;2022-12-31;lundi;;12:00;18:30;Ouverture
+3987;La Fabrique Ile de Nantes - Stereolux;billetterie horaires déc 2021 à déc 2022;2021-12-02;2022-12-31;jeudi;;12:00;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;mardi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;mercredi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;mercredi;;13:30;18:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;vendredi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;mercredi;;09:00;20:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;vendredi;;09:00;20:00;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;vendredi;;14:00;19:00;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;dimanche;;14:00;19:00;Ouverture
+4969;Le Chronographe;sept 2022 à juin 2023;2022-09-01;2023-06-30;vendredi;;14:00;18:00;Ouverture
+4969;Le Chronographe;sept 2022 à juin 2023;2022-09-01;2023-06-30;dimanche;;14:00;18:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;lundi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;mercredi;;10:00;12:00;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;jeudi;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;mardi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;mercredi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;jeudi;;10:00;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;lundi;;10:00;19:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;lundi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;lundi;;14:00;17:30;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;11:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;samedi;;11:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;12:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;12:30;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:30;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;19:00;Ouverture
+26;Médiathèque Nord Luce Courville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;jeudi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+4863;Bibliothèque de La Halvêque;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+16;Bibliothèque de la Manufacture;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-18;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-02-06;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-02-06;14:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;;;;2022-05-01;;;Fermeture
+4969;Le Chronographe;septembre à juin;;;;2022-05-26;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-04-09;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-05-29;;;Fermeture
+133;Musée de l'Imprimerie;2022;;;;2022-06-06;;;Fermeture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2022-11-01;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2022-11-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2023-05-01;;;Fermeture
+146;Planétarium;2022;;;;2022-07-14;13:30;18:00;Ouverture
+146;Planétarium;2022;;;;2022-09-03;;;Fermeture
+146;Planétarium;2022;;;;2022-09-10;;;Fermeture
+146;Planétarium;2022;;;;2022-09-11;;;Fermeture
+146;Planétarium;2022;;;;2022-09-17;;;Fermeture
+146;Planétarium;2022;;;;2022-09-21;;;Fermeture
+146;Planétarium;2022;;;;2022-10-02;;;Fermeture
+146;Planétarium;2022;;;;2022-10-03;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-29;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-06;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-08;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-02-05;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-02;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;lundi;;00:00;23:59;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;12:30;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;13:30;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;19:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;samedi;;10:00;12:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;samedi;;14:00;18:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;lundi;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;vendredi;;14:00;18:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;mercredi;;13:30;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;samedi;;11:00;19:00;Ouverture
+3987;La Fabrique Ile de Nantes - Stereolux;billetterie horaires déc 2021 à déc 2022;2021-12-02;2022-12-31;mercredi;;12:00;18:30;Ouverture
+3987;La Fabrique Ile de Nantes - Stereolux;billetterie horaires déc 2021 à déc 2022;2021-12-02;2022-12-31;mardi;;12:00;14:00;Ouverture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;2021-12-15;2022-06-30;jeudi;;13:00;18:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;samedi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-01-03;2022-02-06;samedi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;mercredi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;samedi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;samedi;;10:00;12:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol avril 2022;2022-04-11;2022-04-24;mercredi;;10:00;12:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;mardi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;15 mai au 15 sept 2022;2022-05-15;2022-09-15;dimanche;;09:00;20:00;Ouverture
+4969;Le Chronographe;septembre à juin;2022-04-18;2022-06-30;dimanche;;14:00;18:00;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;mardi;;14:00;19:00;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;mercredi;;14:00;19:00;Ouverture
+4969;Le Chronographe;juillet-août 2022;2022-07-01;2022-08-31;jeudi;;14:00;19:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;samedi;;14:00;17:30;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;lundi;;10:00;19:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;samedi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;dimanche;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;vendredi;;10:00;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;mercredi;;10:00;19:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;mercredi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;jeudi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;mardi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;jeudi;;10:00;12:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;12:30;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;13:30;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;12:30;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;19:00;Ouverture
+26;Médiathèque Nord Luce Courville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;samedi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;samedi;;11:00;15:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+16;Bibliothèque de la Manufacture;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+11;Bibliothèque Breil Malville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;jeudi;;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;samedi;;11:00;17:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-08;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-08;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-06-06;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-03-06;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-17;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-26;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-03-06;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-09;14:00;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;;;;2022-01-01;;;Fermeture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;;;;2022-05-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-02-14;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-02-17;;;Fermeture
+146;Planétarium;2022;;;;2022-05-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-01-01;;;Fermeture
+4969;Le Chronographe;septembre à juin;;;;2022-05-01;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2022-11-11;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2023-05-18;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-06-21;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-29;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-07-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2023-01-01;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-01;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-05;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-10;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-11;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-05-18;;;Fermeture
+146;Planétarium;2022;;;;2022-09-04;;;Fermeture
+146;Planétarium;2022;;;;2022-09-07;;;Fermeture
+146;Planétarium;2022;;;;2022-09-09;;;Fermeture
+146;Planétarium;2022;;;;2022-09-26;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;;;;2022-08-15;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-01;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-03-05;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-09-04;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-10-02;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-04;14:00;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:30;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;vendredi;;14:00;18:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;dimanche;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;mercredi;;14:00;18:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;mardi;;13:30;18:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;vendredi;;10:00;12:30;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;vendredi;;13:30;18:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;mardi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;mercredi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;mardi;;16:15;18:30;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;mercredi;;09:00;18:00;Ouverture
+4581;Mémorial de l'Abolition de l'Esclavage;sept 2021 à mai 2022;2021-09-16;2022-05-14;dimanche;;09:00;18:00;Ouverture
+4969;Le Chronographe;septembre à juin;2022-04-18;2022-06-30;jeudi;;14:00;18:00;Ouverture
+4969;Le Chronographe;sept 2022 à juin 2023;2022-09-01;2023-06-30;mercredi;;14:00;18:00;Ouverture
+4969;Le Chronographe;sept 2022 à juin 2023;2022-09-01;2023-06-30;samedi;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;mardi;;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;mercredi;;09:30;13:00;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;vendredi;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;vendredi;;10:00;19:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;jeudi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;dimanche;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;samedi;;10:00;18:00;Ouverture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;2022-07-01;2022-08-31;lundi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;jeudi;;14:00;17:30;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;vendredi;;10:00;12:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;12:30;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;13:30;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;jeudi;;13:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;lundi;;14:00;19:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;samedi;;11:00;17:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;jeudi;;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;vendredi;;14:00;18:00;Ouverture
+2227;Maison de l'Erdre;1er sept au 21 octobre 2022;2022-09-01;2022-10-21;samedi;;14:00;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 29/08/21 au 14/07/22;;;;2022-04-18;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-26;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-01;;;Fermeture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;;;;2022-05-01;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2021 à juin 2022;;;;2022-05-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-01-09;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-09;14:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-11;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-04-18;;;Fermeture
+4969;Le Chronographe;sept 2022 à juin 2023;;;;2022-12-25;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-22;;;Fermeture
+5079;Le miroir d'eau;Horaires annuels;;;;2022-06-23;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2023-01-01;;;Fermeture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;;;;2023-05-01;;;Fermeture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;;;;2022-11-01;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-02;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-08-08;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2022-12-25;;;Fermeture
+146;Planétarium;2022;;;;2022-09-14;;;Fermeture
+146;Planétarium;2022;;;;2022-09-22;;;Fermeture
+146;Planétarium;2022;;;;2022-10-05;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-09-04;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-11;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+5079;Le miroir d'eau;Horaires annuels;2020-01-01;2022-06-24;samedi;;00:00;23:59;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mardi;;13:30;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:30;18:00;Ouverture
+11;Bibliothèque Breil Malville;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;samedi;;10:00;12:30;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;vendredi;;13:30;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:00;18:00;Ouverture
+122;Musée Jules Verne;Ouverture ordinaire;2021-09-01;2022-07-01;jeudi;;14:00;18:00;Ouverture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;2021-09-01;2022-06-30;mercredi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;mercredi;;10:00;18:00;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2021 à juin 2022;2021-09-01;2022-06-30;dimanche;;10:00;18:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;2021-08-30;2022-07-01;jeudi;;09:30;13:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;lundi;;10:00;12:30;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;mercredi;;10:00;12:30;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2021 au 30/06/2022;2021-09-01;2022-06-30;dimanche;;11:00;19:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;samedi;;13:30;18:00;Ouverture
+146;Planétarium;2022;2022-01-01;2022-12-31;dimanche;;13:30;18:00;Ouverture
+8060417;Fonds Régional d'Art Contemporain des Pays de la Loire - Nantes;2021-fin juin 022;2021-12-15;2022-06-30;samedi;;13:00;19:00;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac noel 2021;2021-12-20;2022-01-02;mardi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;vendredi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;vac scol fev 2020;2022-02-07;2022-02-20;jeudi;;16:15;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 période scol suite;2022-02-21;2022-04-10;samedi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;mercredi;;13:30;18:30;Ouverture
+8060326;Ludothèque Lud'Halvêque;2022 horaires période scol;2022-04-25;2022-07-03;vendredi;;16:15;18:30;Ouverture
+4969;Le Chronographe;septembre à juin;2022-04-18;2022-06-30;mercredi;;14:00;18:00;Ouverture
+4969;Le Chronographe;septembre à juin;2022-04-18;2022-06-30;vendredi;;14:00;18:00;Ouverture
+4969;Le Chronographe;septembre à juin;2022-04-18;2022-06-30;samedi;;14:00;18:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;jeudi;;10:00;12:00;Ouverture
+133;Musée de l'Imprimerie;2022;2022-05-09;2022-06-30;samedi;;10:00;12:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;mardi;;09:30;13:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;vendredi;;09:30;13:00;Ouverture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2022-2023;2022-08-29;2023-07-13;vendredi;;14:00;18:00;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;samedi;;00:00;23:59;Ouverture
+5079;Le miroir d'eau;horaires annuels bis;2022-06-25;2099-12-31;dimanche;;00:00;23:59;Ouverture
+1121;Musée d'Histoire de Nantes - Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;mardi;;10:00;18:00;Ouverture
+131;Château des Ducs de Bretagne;eté 2022;2022-07-01;2022-08-31;samedi;;10:00;19:00;Ouverture
+131;Château des Ducs de Bretagne;sept 2022 à juin 2023;2022-09-01;2023-06-30;dimanche;;10:00;18:00;Ouverture
+130;Musée d'arts de Nantes;Horaires Juillet et Août 2022;2022-07-01;2022-08-31;dimanche;;10:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;vendredi;;11:00;19:00;Ouverture
+130;Musée d'arts de Nantes;Horaires du 01/09/2022 au 30/06/2022;2022-09-01;2023-06-30;dimanche;;11:00;19:00;Ouverture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;2022-09-01;2023-06-30;mardi;;14:00;17:30;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;jeudi;;13:30;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 29/08/21 au 10/07/22;2021-08-29;2022-07-10;mercredi;;10:00;12:30;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mardi;;13:00;18:00;Ouverture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;vendredi;;13:30;18:00;Ouverture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;13:30;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;samedi;;10:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;13:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mardi;;12:00;20:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;2022-08-28;2023-07-14;mercredi;;10:00;19:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+4863;Bibliothèque de La Halvêque;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mardi;;11:00;15:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+11;Bibliothèque Breil Malville;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+12;Bibliothèque Chantenay;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;mercredi;;11:00;15:00;Ouverture
+12;Bibliothèque Chantenay;Dispositif Fortes Chaleurs Août 2022;2022-08-09;2022-08-13;vendredi;;11:00;15:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;jeudi;;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 14/08/22 au 27/08/22;2022-08-14;2022-08-27;mercredi;;14:00;18:00;Ouverture
+2227;Maison de l'Erdre;1er sept au 21 octobre 2022;2022-09-01;2022-10-21;mercredi;;14:00;18:00;Ouverture
+16;Bibliothèque de la Manufacture;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-05-01;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-03-06;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 29/08/21 au 14/07/22;;;;2022-04-03;14:00;18:00;Ouverture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-01;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-01-01;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-04-17;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 29/08/21 au 10/07/22;;;;2022-05-08;;;Fermeture
+128;Muséum d'Histoire Naturelle;1er sept 2021 au 30 juin 2022;;;;2022-01-01;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-01-01;;;Fermeture
+146;Planétarium;2022;;;;2022-11-01;;;Fermeture
+4006;Bibliothèque de l'Ecole des Beaux-Arts de Nantes Saint-Nazaire;Rentrée 2021/2022;;;;2022-05-27;;;Fermeture
+122;Musée Jules Verne;Ouverture ordinaire;;;;2022-06-26;;;Fermeture
+133;Musée de l'Imprimerie;juillet - août 2022 - dont fermeture du 1er au 16 août inclu;;;;2022-07-14;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-04-10;;;Fermeture
+133;Musée de l'Imprimerie;sept 2022 à juin 2023;;;;2023-05-08;;;Fermeture
+146;Planétarium;2022;;;;2022-09-20;;;Fermeture
+146;Planétarium;2022;;;;2022-09-24;;;Fermeture
+146;Planétarium;2022;;;;2022-10-06;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 14/08/22 au 27/08/22;;;;2022-08-15;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+11;Bibliothèque Breil Malville;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+12;Bibliothèque Chantenay;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-18;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-01;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+4863;Bibliothèque de La Halvêque;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+16;Bibliothèque de la Manufacture;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2023-05-08;;;Fermeture
+3657;Médiathèque Est Floresca Guépin;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-04;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-01-01;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-10;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2023-07-14;;;Fermeture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-10-02;14:00;18:00;Ouverture
+4149;Médiathèque Lisa-Bresner;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-04;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2022-10-02;14:00;18:00;Ouverture
+26;Médiathèque Nord Luce Courville;Ouverture du 28/08/22 au 14/07/23;;;;2023-02-05;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-12-25;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-04-09;;;Fermeture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2022-11-06;14:00;18:00;Ouverture
+17;Médiathèque Espace Jacques Demy;Ouverture du 28/08/22 au 14/07/23;;;;2023-03-05;14:00;18:00;Ouverture
