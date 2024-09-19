@@ -1,6 +1,11 @@
+---
+title: Projet 1
+description: 'SQL & BI - Toys & Models'
+---
+
 # Introduction
 
-![Header](header.PNG)
+![Header](assets/image/header.PNG)
 {: .text-center }
 
 You are commissioned by a company selling models and scale models. 
@@ -28,7 +33,7 @@ Sometimes business indicators are not technically achievable. It is up to you to
 
 Here is the diagram of the database:
 
-![Diagram](diagram.PNG)
+![Diagram](assets/image/diagram.PNG)
 {: .text-center }
 
 # Tools
@@ -60,7 +65,7 @@ You can connect to the MariaDB (a fork of MySQL) server of the company.
 
 # Connection with MySQL Workbench
 
-![MySQL_Connect](mysql_connection.PNG)
+![MySQL_Connect](assets/image/mysql_connection.PNG)
 {: .text-center }
 
 # Notes

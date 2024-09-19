@@ -1,0 +1,37 @@
+remote_theme: WildCodeSchool/workshops-jekyll-theme
+
+titles_from_headings:
+  enabled: false
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # possible values: default or tic-tac
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: true
+
+titles_from_headings:
+  enabled: false
+  strip_title: false
+  collections: false
+
+style: data
+# title: ''
+# description: ''
+# type: ''
+# main_image: '' # http or relative path to image
+show_clone: false
+show_toc: true
+lang: en
