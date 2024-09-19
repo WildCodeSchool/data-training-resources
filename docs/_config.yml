@@ -28,8 +28,8 @@ titles_from_headings:
   collections: false
 
 style: data
-# title: ''
-# description: ''
+title: ''
+description: ''
 # type: ''
 # main_image: '' # http or relative path to image
 show_clone: false

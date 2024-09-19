@@ -1,6 +1,7 @@
 ---
 title: Projet 1
 description: 'SQL & BI - Toys & Models'
+layout: tic-tac
 ---
 
 # Introduction
