@@ -5,7 +5,10 @@ description: 'Quiz Game'
 
 # Dojo Python – Quiz Game
 
-## Instructions :
+![Header](assets/image/riddler.PNG)
+{: .text-center }
+
+## Instructions
 - Le quiz doit contenir exactement 3 questions, et donc 3 réponses.
 - Le joueur aura 3 essais par question.
 - Si le joueur répond correctement, ses essais sont réinitialisés lors de la question suivante.
@@ -13,7 +16,7 @@ description: 'Quiz Game'
 - Arrêter le jeu si l’utilisateur perd tous ses essais.
 - **Bonus** : Mettre en place un compteur de points à chaque bonne réponse et lui afficher.
 
-## Spécifications :
+## Spécifications
 - Utiliser, à minima, une collection de données pour stocker les questions et réponses attendues.
 - Utiliser des boucles.
 - Utiliser des conditions.

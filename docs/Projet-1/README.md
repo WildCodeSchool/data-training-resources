@@ -9,7 +9,7 @@ layout: tic-tac
 ![Header](assets/image/header.PNG)
 {: .text-center }
 
-You are commissioned by a company selling models and scale models. 
+You are commissioned by a company selling models and scale models.
 
 The company already has a database that lists employees, products, orders, and much more. You are invited to browse and discover this database.
 
@@ -17,7 +17,7 @@ The company already has a database that lists employees, products, orders, and m
 
 # Goal & Objectives
 
-Your dashboard should revolve around these 4 main topics: **sales**, **finance**, **logistics**, and **human resources**.  
+Your dashboard should revolve around these 4 main topics: **sales**, **finance**, **logistics**, and **human resources**.
 Here are the mandatory indicators that should be present in your dashboard. It is recommended to create additional KPIs. This part is very important in order to develop your skills/creativity as a data analyst.
 
 - <u><b>Sales</b></u>: The number of products sold by category and by month, with comparison and rate of change compared to the same month of the previous year.
