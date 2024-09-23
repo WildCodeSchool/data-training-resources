@@ -1,10 +1,11 @@
 ---
 title: Dojo Python
 description: 'Quiz Game'
-main_image: assets/image/riddler.PNG
+layout: tic-tac
 ---
 
-# Dojo Python – Quiz Game
+![Header](assets/image/riddler.PNG)
+{: .text-center }
 
 ## Instructions
 - Le quiz doit contenir exactement 3 questions, et donc 3 réponses.
