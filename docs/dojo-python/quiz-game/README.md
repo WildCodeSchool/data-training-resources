@@ -4,6 +4,8 @@ description: 'Quiz Game'
 layout: tic-tac
 ---
 
+# Quiz Game
+
 ![Header](assets/image/riddler.PNG)
 {: .text-center }
 
