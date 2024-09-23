@@ -4,10 +4,10 @@ description: 'Quiz Game'
 layout: tic-tac
 ---
 
+# Quiz Game
+
 ![Header](assets/image/riddler.PNG)
 {: .text-center }
-
-# Quiz Game
 
 ## Instructions
 - Le quiz doit contenir exactement 3 questions, et donc 3 réponses.
