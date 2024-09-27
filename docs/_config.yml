@@ -5,9 +5,9 @@ titles_from_headings:
 
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
-      layout: "default" # possible values: default or tic-tac
+      layout: "default"
 
 plugins:
   - jekyll-readme-index
@@ -30,8 +30,6 @@ titles_from_headings:
 style: data
 title: ''
 description: ''
-# type: ''
-# main_image: '' # http or relative path to image
 show_clone: false
 show_toc: true
 lang: en
