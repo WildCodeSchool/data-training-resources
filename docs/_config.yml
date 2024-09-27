@@ -2,6 +2,8 @@ remote_theme: WildCodeSchool/workshops-jekyll-theme
 
 titles_from_headings:
   enabled: false
+  strip_title: false
+  collections: false
 
 defaults:
   - scope:
@@ -21,11 +23,6 @@ readme_index:
   enabled: true
   remove_originals: false
   with_frontmatter: true
-
-titles_from_headings:
-  enabled: false
-  strip_title: false
-  collections: false
 
 style: data
 title: ''
