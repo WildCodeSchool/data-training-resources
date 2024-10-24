@@ -56,7 +56,7 @@ Utilisez **Matplotlib** ou **Seaborn** pour créer des graphiques mettant en év
 - **Heatmap** pour analyser les corrélations entre les différentes statistiques.
 - **Histogramme** pour visualiser la répartition des Pokémon selon leurs points de vie.
 
-# Interprétation des résultat
+## 4. Interprétation des résultat
 
 - Une fois les KPI identifiés et les graphiques réalisés, interprétez vos résultats en fonction de la problématique choisie.
 - Expliquez comment vos visualisations aident à comprendre les tendances ou particularités des données.
