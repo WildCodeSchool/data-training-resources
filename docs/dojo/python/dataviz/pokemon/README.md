@@ -9,7 +9,7 @@ layout: default
 ![Header](assets/header.PNG)
 {: .text-center }
 
-Dans cet exercice, vous allez travailler avec un dataset contenant des informations sur les Pokémon. Le but est d’analyser ce dataset, d’identifier des KPI (Indicateurs Clés de Performance) pertinents, et de créer des visualisations claires et informatives à l’aide des bibliothèques **Matplotlib** ou **Seaborn**.
+Dans cet exercice, vous allez travailler avec [un dataset](https://drive.google.com/file/d/1SJMVSAIc-5TevEW8zXkh8DN6ccqXWjXL/view?usp=drive_link) contenant des informations sur les Pokémon. Le but est d’analyser ce dataset, d’identifier des KPI (Indicateurs Clés de Performance) pertinents, et de créer des visualisations claires et informatives à l’aide des bibliothèques **Matplotlib** ou **Seaborn**.
 
 # Objectif & Enjeux
 
