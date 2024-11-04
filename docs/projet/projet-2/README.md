@@ -4,7 +4,7 @@ description: 'Système de recommandation de films'
 layout: default
 ---
 
-# Introduction
+## Introduction
 
 ![Header](assets/image/header.PNG)
 {: .text-center }
@@ -17,12 +17,12 @@ Lorsqu’on accède au service Netflix, le système de recommandations aide l’
 
 **Votre client n’est pas Netflix, mais il a de grandes ambitions !**
 
+## Objectif & Enjeux
+
 ![CreuseMap](assets/image/creuse.PNG)
 {: .text-center }
 
-# Objectif & Enjeux
-
-Vous êtes un Data Analyst freelance. Un cinéma en perte de vitesse situé dans la Creuse vous contacte. Il a décidé de passer le cap du digital en créant un site Internet taillé pour les locaux. 
+Vous êtes un Data Analyst freelance. Un cinéma en perte de vitesse situé dans la Creuse vous contacte. Il a décidé de passer le cap du digital en créant un site Internet taillé pour les locaux.
 
 Pour aller encore plus loin, il vous demande de créer un moteur de recommandations de films qui à terme, enverra des notifications aux clients via Internet.
 
@@ -30,10 +30,10 @@ Pour l’instant, aucun client n’a renseigné ses préférences, **vous êtes 
 
 Vous allez commencer par proposer une analyse complète de la base de données (Quels sont les acteurs les plus présents ? À quelle période ? La durée moyenne des films s’allonge ou se raccourcit avec les années ? Les acteurs de série sont-ils les mêmes qu’au cinéma ? Les acteurs ont en moyenne quel âge ? Quels sont les films les mieux notés ? Partagent-ils des caractéristiques communes ? etc…) Suite à une première analyse, vous pouvez décider de spécialiser votre cinéma, par exemple sur la « *période années 90* », ou alors sur « *les films d’action et d’aventure* », afin d'affiner votre exploration.
 
+## Objectif & Enjeux (suite)
+
 ![Sci-kit Learn Logo](assets/image/sci-kit_learn_logo.PNG)
 {: .text-center }
-
-# Objectif & Enjeux (suite)
 
 Après cette étape analytique, sur la fin du projet, vous utiliserez des **algorithmes de machine learning** pour recommander des films en fonction de films qui ont été appréciés par le spectateur.
 
@@ -41,7 +41,7 @@ Le client vous fournit également une base de données complémentaires venant d
 
 **Attention !** L’objectif n’est pas de diffuser dans le cinéma les films recommandés. L’objectif final est d’avoir une application avec d’une part des KPI et d’autre part le système de recommandation avec une zone de saisie de nom de film pour l’utilisateur. Cette application sera mise à disposition des clients du cinéma afin de leur proposer un service supplémentaire, en ligne, en plus du cinéma classique.
 
-# Ressources
+## Ressources
 
 Les données sont disponibles sur le site IMDb, réparties en plusieurs tables (films, acteurs, réalisateurs, notes, etc.).
 
@@ -49,14 +49,14 @@ Les données sont disponibles sur le site IMDb, réparties en plusieurs tables (
 - [Datasets IMDb](https://datasets.imdbws.com/)
 - [Dataset complémentaire TMDB](https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view?usp=sharing)
 
-# Remarques Techniques
+## Remarques Techniques
 
 - Vous pouvez télécharger les datasets en local, sur votre Drive ou bien sur un GitHub. Mais vous pouvez surtout ne pas les télécharger, et importer directement les datasets dans Pandas en mettant le lien du dataset.
 - Les datasets sont très volumineux, il y a plus de 7M films et 10M acteurs référencés. Vous n’aurez sans doute pas besoin de la base complète. Une fois que vous aurez fait du nettoyage et des filtres sur ce que vous trouvez pertinent, pensez à exporter vos données “allégées”. Ce sera plus rapide à réimporter.
 - Pour rappel, Google Colab propose des serveurs “partagés”. Les performances dépendent donc du nombre de personnes connectées en même temps. Parfois, vous ne pourrez donc pas charger tous ces volumineux datasets. N’hésitez pas à les traiter en local grâce à Anaconda / Jupyter.
 - Les datasets IMDB sont au format TSV, pour “Tabulation Separated Values”. C’est similaire au format CSV, mais séparé par des tabulations plutôt que des virgules. Vous pouvez utiliser la fonction suivante, qui indique que le séparateur est une tabulation : `pd.read_csv(“dataset_link”, sep = “\t”, nrows=1000)`
 
-# Organisation et Planning
+## Organisation et Planning
 
 Vous aurez besoin de faire des jointures (comme en SQL) entre les datasets, des graphiques en Python, des retraitements avec Pandas, du machine learning. Bien entendu, vous ne pourrez pas tout faire la première semaine, car vous apprendrez ces notions en parallèle du projet. Afin de vous donner de la visibilité, voici un planning indicatif, mais libre à vous de vous organiser :
 
@@ -65,7 +65,7 @@ Vous aurez besoin de faire des jointures (comme en SQL) entre les datasets, des 
 3. **Semaine 5 & 6** : Machine learning et recommandations (scikit-learn)
 4. **Semaine 7** : Affinage, interface et présentation
 
-# Besoins Clients
+## Besoins Clients
 
 Le client aurait souhaité intégrer votre analyse et vos recommandations à son site pour pouvoir le tester, mais le timing est trop serré. Force de proposition, vous lui proposer de **__le rendre testable au moyen d’un outil de votre choix__**.
 
@@ -76,23 +76,23 @@ Le client a 2 besoins, qui peuvent être dans 2 outils séparés :
 
 L’objectif n’est pas d’arriver à un travail parfait, mais que le système fonctionne et que vous arriviez à déceler les points à améliorer.
 
-# Missions et Livrables Attendus
+## Missions et Livrables Attendus
 
-## Missions
+### Missions
 
 - Faire une présentation pour présenter votre travail, expliquer votre démarche, les outils utilisés, les difficultés rencontrées, et des pistes d’amélioration.
 - Présenter les indicateurs statistiques et KPI pertinents sur les films.
 - Créer un système de recommandation de film en utilisant des algorithmes de machine learning et faire une démonstration de ces recommandations sur des films proposés en séance par le client.
 
-## Livrables
+### Livrables
 
 - Un notebook contenant l’exploration et le nettoyage des données ainsi que les visualisations. Vous expliquerez vos choix de nettoyage et vos conclusions d’exploration dans un document de votre choix.
 - Un dashboard présentant les KPI pertinents.
 - Un notebook pour l’étape Système de recommandation  avec le code source avec vos commentaires.
 
-# Documentation
+## Documentation
 
-## IMDb Dataset Details
+### IMDb Dataset Details
 
 Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set. The first line in each file contains headers that describe what is in each column. A ‘\N’ is used to denote that a particular field is missing or null for that title/name. The available datasets are as follows:
 
@@ -149,7 +149,7 @@ name.basics.tsv.gz – Contains the following information for names:
 - primaryProfession (array of strings)– the top-3 professions of the person
 - knownForTitles (array of tconsts) – titles the person is known for
 
-## TMDB Dataset Details
+### TMDB Dataset Details
 
 - adult : Un champ indiquant si le film est destiné à un public adulte, avec les valeurs "true" ou "false".
 - backdrop_path : Le chemin d'accès à l'image de fond associée au film, utilisée à des fins de marketing et de promotion.
