@@ -45,8 +45,6 @@ Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données
 
 L'entreprise vous fournit également le script que vous pouvez exécuter sur votre serveur MySQL local. Les données sont identiques et s'arrêtent à la fin du mois précédent.
 
-Pendant la semaine de démonstration, de nouvelles données fraîches seront envoyées (vous recevrez le script de mise à jour si vous le faites localement). La démo devra afficher les dernières données disponibles.
-
 # Base de données SQL
 
 Vous avez le choix entre vous connecter au serveur cloud ou déployer le script localement. Les données sont identiques dans les deux cas.

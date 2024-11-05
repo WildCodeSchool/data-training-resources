@@ -28,7 +28,11 @@ Pour aller encore plus loin, il vous demande de créer un moteur de recommandati
 
 Pour l’instant, aucun client n’a renseigné ses préférences, **vous êtes dans une situation de cold start**. Mais heureusement, le client vous donne une base de données de films basée sur la plateforme IMDb.
 
-Vous allez commencer par proposer une analyse complète de la base de données (Quels sont les acteurs les plus présents ? À quelle période ? La durée moyenne des films s’allonge ou se raccourcit avec les années ? Les acteurs de série sont-ils les mêmes qu’au cinéma ? Les acteurs ont en moyenne quel âge ? Quels sont les films les mieux notés ? Partagent-ils des caractéristiques communes ? etc…) Suite à une première analyse, vous pouvez décider de spécialiser votre cinéma, par exemple sur la « *période années 90* », ou alors sur « *les films d’action et d’aventure* », afin d'affiner votre exploration.
+Commencez par une étude de marché sur la consommation de cinéma dans la région de la Creuse, afin de mieux comprendre les attentes et les préférences du public local. Cette étape préliminaire vous permettra de définir une orientation adaptée pour la suite de l’analyse de votre base de données.
+
+Après cette étude, réalisez une analyse approfondie de votre base de données pour identifier des tendances et caractéristiques spécifiques. Cette analyse devrait inclure : l’identification des acteurs les plus présents et les périodes associées, l’évolution de la durée moyenne des films au fil des années, la comparaison entre les acteurs présents au cinéma et dans les séries, l’âge moyen des acteurs, ainsi que les films les mieux notés et les caractéristiques qu’ils partagent.
+
+Sur la base des informations récoltées, vous pourrez affiner votre programmation en vous spécialisant par exemple sur les films des années 90 ou les genres d’action et d’aventure, afin de mieux répondre aux attentes du public identifié lors de l’étude de marché.
 
 ## Objectif & Enjeux (suite)
 
@@ -60,8 +64,8 @@ Les données sont disponibles sur le site IMDb, réparties en plusieurs tables (
 
 Vous aurez besoin de faire des jointures (comme en SQL) entre les datasets, des graphiques en Python, des retraitements avec Pandas, du machine learning. Bien entendu, vous ne pourrez pas tout faire la première semaine, car vous apprendrez ces notions en parallèle du projet. Afin de vous donner de la visibilité, voici un planning indicatif, mais libre à vous de vous organiser :
 
-1. **Semaine 1 & 2** : Appropriation et exploration des données (Pandas, Matplotlib, Seaborn)
-2. **Semaine 3 & 4** : Jointures, nettoyage et recherche de corrélations (Pandas, Seaborn, Plotly)
+1. **Semaine 1 & 2** : Réaliser une étude de marché sur la consomation de cinéma dans la région de la Creuse (CNC, Insee)
+2. **Semaine 3 & 4** : Appropriation, exploration des données et nettoyage (Pandas, Matplotlib, Seaborn)
 3. **Semaine 5 & 6** : Machine learning et recommandations (scikit-learn)
 4. **Semaine 7** : Affinage, interface et présentation
 
