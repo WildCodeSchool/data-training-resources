@@ -1,73 +1,73 @@
-Crew ,Participation,CSAT,NB_unsatisfied,NB_satisfied,Commentaires 
-"Lille - FT - Data Analyst - 09.2024,83.33,95,1,19,""["
-"    """"oui tout se passe bien et mieux qu'au début dans le sens ou j'ai pris mes marques, et je commence à déployer certaines routines..... on sait que le programme est intense. En revanche un effectif de 24 est trop important d'autant que Soufiane est très investi dans ce qu'il fait ! Par ailleurs, les pb de chauffage, de savon pour les mains qui manque, des chaises totalement inconfortables, du manque d'espace dans les salles, et de la mauvaise luminosité sont quelques peu dérangeants"""","
-"    """"Je me sent bien dans les locaux, avec Soufiane, mes collègues. J'ai mis 4 étoiles car je trouve qu'il fait froid dans la salle, c'est dommage."""","
-"    """"Formation intensive, beaucoup d'informations sur un laps de temps assez court mais bon groupe, bonne ambiance. Nous sommes bien encadrés par Soufiane"""","
-"    """"Bon environnement (attention au chauffage), bonne équipe d'encadrants, apprenants disponible et ouvert à l'aide"""","
-"    """"La formation est très bien mais nous manquons de temps pour travailler toutes les quêtes de manière plus approfondie."""","
-"    """"Je sens que je suis à la bonne place et que ce que je fais est bien en phase avec mon projet de reconversion. Mais la sensation de ne pas finaliser mes tâches s'amplifie avec les semaines qui passent."""","
-"    """"Soufiane est top."""","
-"    """"Oui, j'aime bien la formation Data Analyst"""","
-"    """"Bonjour, Tout se passe bien dans l'ensemble mais certains aspects de la formation me poussent à ne mettre 'que' 3 étoiles. Premièrement, je considère que nous sommes trop nombreux : 24 contre 15 annoncés lors des entretiens d'admission. Soufiane ne peut pas être partout à la fois et nous avons trop souvent des 'pertes de temps' évitables (retard, mise en place d'atelier, ...). Deuxièmement, l'enseignant est trop souvent occupé pour des réunions : je ne l'incrimine pas bien sûr mais nous sommes alors en autonomie trop souvent à mon sens. Et troisièmement, je ne me satisfait pas de la pédagogie inversée. Je ne comprends pas l'intérêt de cette méthode. Il s'agit ici de mon ressenti personnel bien sûr."""""
-"]"""
-"Nantes - FT - Data Analyst - 09.2024 Bleu,81.25,76,3,10,""["
-"    """"Ça pourrait être mieux. Je me demande même si je ne me suis pas trompé finalement…"""""
-"]"""
-"Paris - FT - Data Analyst - 09.2024 - Vert,75,44,5,4,""""""Le programme de la formation était très dense, et cela n'a pas été clairement expliqué avant le début de la formation."""","
-"    """"Le groupe est plus grand que ce qui avait été annoncé, ce qui affecte la qualité de l'apprentissage."""","
-"    """"La méthode inversée semble efficace pour certains aspects, mais elle n'est pas adaptée à tous les cours."""","
-"    """"Nous avons eu un nouveau formateur qui, bien qu'il semble compétent, manque d'expérience et de pédagogie. Il serait préférable qu'il soit accompagné et non pas autonome dès le premier jour."""","
-"    """"Il y a eu un manque de clarté concernant l'avancement du programme à divers moments."""","
-"    """"Le centre de formation n'est pas bien entretenu et n'est pas adapté pour accueillir tous les groupes, et les intervenants extérieurs."""","
-"    """"Il n'y a pas eu d'anticipation pour accorder des distanciels en cas de problèmes de transport ou de conditions météorologiques."""","
-"    """"Pas de flexibilité pour les personnes qui ne peuvent pas se déplacer au centre, bien qu'elles puissent suivre les cours à distance."""""""
-"Toulouse - FT - Data Analyst - 09.2024,80,87,1,7,""["
-"    """"Plutôt pas trop mal, jusqu'ici je suis encore en vie."""","
-"    """"Niveau des quêtes et quantité de notions nouvelles en dent de scie. Nous avons fait remonter le manque de lumière dans notre salle en tout début de formation. Semaine 9 : pas de retour sur ce point. À part ça, le contenu est toujours aussi riche et intéressant."""""
-"]"""
+Crew,Participation,CSAT,NB_unsatisfied,NB_satisfied,Commentaires
+Lille - FT - Data Analyst - 09.2024,83.33,95,1,19,"[
+    ""oui tout se passe bien et mieux qu'au début dans le sens ou j'ai pris mes marques, et je commence à déployer certaines routines..... on sait que le programme est intense. En revanche un effectif de 24 est trop important d'autant que Soufiane est très investi dans ce qu'il fait ! Par ailleurs, les pb de chauffage, de savon pour les mains qui manque, des chaises totalement inconfortables, du manque d'espace dans les salles, et de la mauvaise luminosité sont quelques peu dérangeants"",
+    ""Je me sent bien dans les locaux, avec Soufiane, mes collègues. J'ai mis 4 étoiles car je trouve qu'il fait froid dans la salle, c'est dommage."",
+    ""Formation intensive, beaucoup d'informations sur un laps de temps assez court mais bon groupe, bonne ambiance. Nous sommes bien encadrés"",
+    ""Bon environnement (attention au chauffage), bonne équipe d'encadrants, apprenants disponible et ouvert à l'aide"",
+    ""La formation est très bien mais nous manquons de temps pour travailler toutes les quêtes de manière plus approfondie."",
+    ""Je sens que je suis à la bonne place et que ce que je fais est bien en phase avec mon projet de reconversion. Mais la sensation de ne pas finaliser mes tâches s'amplifie avec les semaines qui passent."",
+    ""Soufiane est top."",
+    ""Oui, j'aime bien la formation Data Analyst"",
+    ""Bonjour, Tout se passe bien dans l'ensemble mais certains aspects de la formation me poussent à ne mettre 'que' 3 étoiles. Premièrement, je considère que nous sommes trop nombreux : 24 contre 15 annoncés lors des entretiens d'admission. Soufiane ne peut pas être partout à la fois et nous avons trop souvent des 'pertes de temps' évitables (retard, mise en place d'atelier, ...). Deuxièmement, l'enseignant est trop souvent occupé pour des réunions : je ne l'incrimine pas bien sûr mais nous sommes alors en autonomie trop souvent à mon sens. Et troisièmement, je ne me satisfait pas de la pédagogie inversée. Je ne comprends pas l'intérêt de cette méthode. Il s'agit ici de mon ressenti personnel bien sûr.""
+]"
+Nantes - FT - Data Analyst - 09.2024 Bleu,81.25,76,3,10,"[
+    ""Ça pourrait être mieux. Je me demande même si je ne me suis pas trompé finalement…""
+]"
+Paris - FT - Data Analyst - 09.2024 - Vert,75,44,5,4,"""Le programme de la formation était très dense, et cela n'a pas été clairement expliqué avant le début de la formation."",
+    ""Le groupe est plus grand que ce qui avait été annoncé, ce qui affecte la qualité de l'apprentissage."",
+    ""La méthode inversée semble efficace pour certains aspects, mais elle n'est pas adaptée à tous les cours."",
+    ""Nous avons eu un nouveau formateur qui, bien qu'il semble compétent, manque d'expérience et de pédagogie. Il serait préférable qu'il soit accompagné et non pas autonome dès le premier jour."",
+    ""Il y a eu un manque de clarté concernant l'avancement du programme à divers moments."",
+    ""Le centre de formation n'est pas bien entretenu et n'est pas adapté pour accueillir tous les groupes, et les intervenants extérieurs."",
+    ""Il n'y a pas eu d'anticipation pour accorder des distanciels en cas de problèmes de transport ou de conditions météorologiques."",
+    ""Pas de flexibilité pour les personnes qui ne peuvent pas se déplacer au centre, bien qu'elles puissent suivre les cours à distance."""
+Toulouse - FT - Data Analyst - 09.2024,80,87,1,7,"[
+    ""Plutôt pas trop mal, jusqu'ici je suis encore en vie."",
+    ""Niveau des quêtes et quantité de notions nouvelles en dent de scie. Nous avons fait remonter le manque de lumière dans notre salle en tout début de formation. Semaine 9 : pas de retour sur ce point. À part ça, le contenu est toujours aussi riche et intéressant.""
+]"
 "
-Bordeaux - FT - Data Analyst - 09.2024,73.33,54,5,6,""["
-"    """"Bien que le rythme soit soutenu, les notions sont abordées de manière logique et donc découlent les unes des autres. Les projets nous permettent de mettre en pratique ce que l'on voit pendant les quêtes."""","
-"    """"Beaucoup d'anxiété ces dernières semaines que je n'ai jamais ressenti."""","
-"    """"Formation très commerciale, je vous donne mon avis total à la fin de la formation."""","
-"    """"Les départs définitifs de certains collègues rendent mon expérience moins agréable. J'ai l'impression que personne ne leur est venu en aide, et je ne parle pas du formateur mais du staff au complet."""","
-"    """"Aucun plaisir lors de la formation, le système de la formation ne me correspond pas."""""
-"]"""
+Bordeaux - FT - Data Analyst - 09.2024",73.33,54,5,6,"[
+    ""Bien que le rythme soit soutenu, les notions sont abordées de manière logique et donc découlent les unes des autres. Les projets nous permettent de mettre en pratique ce que l'on voit pendant les quêtes."",
+    ""Beaucoup d'anxiété ces dernières semaines que je n'ai jamais ressenti."",
+    ""Formation très commerciale, je vous donne mon avis total à la fin de la formation."",
+    ""Les départs définitifs de certains collègues rendent mon expérience moins agréable. J'ai l'impression que personne ne leur est venu en aide, et je ne parle pas du formateur mais du staff au complet."",
+    ""Aucun plaisir lors de la formation, le système de la formation ne me correspond pas.""
+]"
 "
-Lyon - FT - Data Analyst - 09.2024 - Datamancers,61.11,90,1,10,""["
-"    """"C'est dur de suivre la vitesse en français et les concepts que nous devrons aussi apprendre en anglais. J'ai toujours à chercher la traduction pour quelque chose qu'on a prise."""","
-"    """"Forcing abusif sur la demande de sondage, on nous demande de noter la formation qui est en cours... Je serais enclin à noter et donner mon avis une fois la formation finie, pas avant !"""""
+Lyon - FT - Data Analyst - 09.2024 - Datamancers",61.11,90,1,10,"[
+    ""C'est dur de suivre la vitesse en français et les concepts que nous devrons aussi apprendre en anglais. J'ai toujours à chercher la traduction pour quelque chose qu'on a prise."",
+    ""Forcing abusif sur la demande de sondage, on nous demande de noter la formation qui est en cours... Je serais enclin à noter et donner mon avis une fois la formation finie, pas avant !""
 ]
 "
-Nantes - FT - Data Analyst - 09.2024 - Jaune,100,87,2,14,["
-"    """"Le séquençage de la formation n'est pas bien maîtrisé. Par exemple le checkpoint 1 Data est arrivé 2 semaines trop tard et la théorie sur le machine learning nécessaire pour le projet 2 arrive à la fin du projet. Niveau connaissances ça semble correct."""","
-"    """"Oui je trouve que ça avance bien."""","
-"    """"Je me sens pas bien la formation est plus dure pour moi."""","
-"    """"Bonjour, J'aime beaucoup le contenu de la formation et la disponibilité du formateur. Je suis un peu étonnée du suivi et du manque de transparence des commerciaux de la Wild. J'apprends un mois après la rentrée que la Wild va déménager dans un endroit plus loin que chez moi alors que c'était un critère concernant le choix de mon école pour mon organisation personnelle. Un peu aussi surprise qu'il n'y ait pas de directeur de campus comme annoncé. La salle de pause où nous sommes deux groupes data et un gros groupe dev et seulement 3 micro-ondes, 3 frigos. Le manque d'ergonomie et surtout de place dans la salle data jaune. L'essentiel est tout de même dans le contenu de la formation qui me plaît malgré quelques surprises de voir du SQL fondamental après du SQL advanced (?)."""""
-"]"""
-"Paris - FT - Data Analyst - 09.2024 - Jaune,76.19,87,2,14,""["
-"    """"Très rapide et très fatigant."""""
-"]"""
-"Remote - FT - Data Analyst - 09.2024 - Vert,73.68,71,4,10,""["
-"    """"Charge de travail importante et parfois des travaux qui 'bug'/n'avancent pas malgré des recherches approfondies, très frustrants."""","
-"    """"Je vois que j'apprends plein de choses mais il y a tellement à apprendre que je n'ai pas le temps d'assimiler tout."""","
-"    """"Plutôt moyen, il est compliqué d'avancer en allant d'un système à un autre et en ne suivant pas forcément une suite logique puisque l'on reçoit des quêtes sur des sujets pas encore abordés. À défaut j'apprends à utiliser un maximum ChatGPT pour poser toutes mes questions, chercher, apprendre par moi-même et y trouver les ressources nécessaires. J'avais dans mes premiers entretiens relevé l'organisation avec un formateur et un responsable campus qui faisait office de référent. Je souligne que ces entretiens m'ont amené à choisir la Wild malgré la volonté de FranceTravail de m'orienter sur un autre organisme. Je constate que cette organisation n'est plus, ce qui aurait dû faire l'objet d'une communication plus formelle de la Wild (à moins que je l'ai manquée) puisque c'est une information qui fait partie du contrat. Il est mentionné 700 heures de cours mais en fait il s'agit de beaucoup moins puisque l'essentiel de ces heures sont passées par l'étudiant à chercher. Je compare l'approche de la Wild à l'apprentissage de plusieurs langues simultanément en ayant uniquement le dictionnaire respectif sans avoir leur traduction. Les prérequis sont malheureusement très largement sous-estimés dans un but clair d'obtenir plus d'étudiants. Je constate pendant des discussions libres entre étudiants que les seuls à être à l'aise sont ceux avec déjà les bases de certains langages ou ceux qui utilisent largement ChatGPT. Pour faire simple je suis extrêmement déçu du process général de cette formation que je m'efforce de continuer en espérant que le résultat final me donnera tort."""","
-"    """"Tout d'abord, je tiens à exprimer mon appréciation pour l'approche pédagogique inversée, que je trouve intéressante pour développer l'autonomie des apprenants. Cependant, je rencontre certaines difficultés que j'aimerais partager, dans le but d'améliorer mon expérience ainsi que celle des autres participants. Difficulté à suivre le rythme et à comprendre le matériel : La quantité de matériel à lire et sa complexité, associées à la nécessité de chercher des informations supplémentaires en ligne, rendent difficile le respect des délais et la compréhension approfondie des concepts. Bien que je fasse de mon mieux pour me rattraper de manière autonome, il m'est parfois difficile de tout compléter dans les temps, et je me sens parfois perdu sur la façon d'appliquer les concepts aux défis proposés."""","
-"    """"La formation se passe bien. Ma promo est très solidaire et sympathique. Le rythme est élevé mais reste pour le moment abordable."""","
-"    """"Je trouve certains aspects de la formation brouillons. Nous n'avons pas le temps de comprendre à 100% un logiciel qu'on passe déjà sur deux ou trois autres modules dans la même semaine. Les explications de quêtes sont assez brouillons ou obsolètes sur certaines quêtes. Je trouve parfois que ça manque de professionnalisme pour une formation à presque 8000€. Je m'attends à avoir des réponses claires à mes questions. Étant utilisateur Mac, il manque de documentation sur certaines installations, tout est fait pour Windows, mais avant la formation il n'est pas dit qu'il est préférable d'avoir un environnement Windows !"""","
-"    """"Formatrice très à l'écoute, promo très agréable ! Parfois trop de quêtes ou quêtes trop longues. Apprentissages super utiles !"""""
-"]"""
-"Remote - FT - Data Analyst - 09.2024 - Jaune,71.43,80,3,12,""["
-"    """"Globalement, je suis bien sauf que le rythme est un peu trop fort et difficile à rattraper pour une personne débutante, malgré que cette formation est principalement dédiée aux débutants."""""
-"]"""
-"Remote - FT - Data Analyst - 09.2024 - Bleu,100,95,1,20,""["
-"    """"Jonathan est un super formateur à l'écoute qui répond à toutes nos sollicitations et soucieux de notre bien-être dans la formation. Il prend plaisir à nous former et ça se ressent ! J'ai, à mon humble avis, la meilleure promo ! Il y règne un esprit de bienveillance, ce qui me permet de me sentir en confiance et me motive à travailler. J'apprécie la pédagogie de la Wild, l'équilibre du travail en individuel sur les quêtes et en groupe sur les projets apporte une bonne dynamique. On peut ainsi développer notre autonomie tout en apprenant à travailler en équipe."""","
-"    """"La formation a été très satisfaisante, en grande partie grâce à Jonathan Cambon. Sa méthode simple et structurée a rendu l'apprentissage clair et accessible. Je suis très contente de cette expérience enrichissante."""","
-"    """"Le formateur est top malgré le rythme très soutenu de la formation, il est toujours là pour nous soutenir et nous aider."""","
-"    """"Je me sens mieux depuis le début. J'ai pris mes marques."""","
-"    """"Super formateur qui te donne la pêche à venir malgré tout à la formation chaque matin avec le même enthousiasme. Je suis ravie que toute l'équipe s'accroche, la pédagogie du formateur est à féliciter, merci Jonathan. Par contre pour les quêtes, il serait intéressant de donner plus d'explications."""","
-"    """"Très bonne ambiance, très bonne cohésion de groupe."""","
-"    """"Jonathan est un très bon formateur, ce qui nous permet de bien nous sentir dans les concepts abordés."""","
-"    """"La formation se déroule bien dans l'ensemble, les cours sont bien complémentaires des quêtes."""","
-"    """"Je me sens comme un poisson dans l’eau avec parfois des vagues intenses parfois calmes."""""
-"]"""
+Nantes - FT - Data Analyst - 09.2024 - Jaune,100,87,2,14,"[
+    ""Le séquençage de la formation n'est pas bien maîtrisé. Par exemple le checkpoint 1 Data est arrivé 2 semaines trop tard et la théorie sur le machine learning nécessaire pour le projet 2 arrive à la fin du projet. Niveau connaissances ça semble correct."",
+    ""Oui je trouve que ça avance bien."",
+    ""Je me sens pas bien la formation est plus dure pour moi."",
+    ""Bonjour, J'aime beaucoup le contenu de la formation et la disponibilité du formateur. Je suis un peu étonnée du suivi et du manque de transparence des commerciaux de la Wild. J'apprends un mois après la rentrée que la Wild va déménager dans un endroit plus loin que chez moi alors que c'était un critère concernant le choix de mon école pour mon organisation personnelle. Un peu aussi surprise qu'il n'y ait pas de directeur de campus comme annoncé. La salle de pause où nous sommes deux groupes data et un gros groupe dev et seulement 3 micro-ondes, 3 frigos. Le manque d'ergonomie et surtout de place dans la salle data jaune. L'essentiel est tout de même dans le contenu de la formation qui me plaît malgré quelques surprises de voir du SQL fondamental après du SQL advanced (?).""
+]"
+Paris - FT - Data Analyst - 09.2024 - Jaune,76.19,87,2,14,"[
+    ""Très rapide et très fatigant.""
+]"
+Remote - FT - Data Analyst - 09.2024 - Vert,73.68,71,4,10,"[
+    ""Charge de travail importante et parfois des travaux qui 'bug'/n'avancent pas malgré des recherches approfondies, très frustrants."",
+    ""Je vois que j'apprends plein de choses mais il y a tellement à apprendre que je n'ai pas le temps d'assimiler tout."",
+    ""Plutôt moyen, il est compliqué d'avancer en allant d'un système à un autre et en ne suivant pas forcément une suite logique puisque l'on reçoit des quêtes sur des sujets pas encore abordés. À défaut j'apprends à utiliser un maximum ChatGPT pour poser toutes mes questions, chercher, apprendre par moi-même et y trouver les ressources nécessaires. J'avais dans mes premiers entretiens relevé l'organisation avec un formateur et un responsable campus qui faisait office de référent. Je souligne que ces entretiens m'ont amené à choisir la Wild malgré la volonté de FranceTravail de m'orienter sur un autre organisme. Je constate que cette organisation n'est plus, ce qui aurait dû faire l'objet d'une communication plus formelle de la Wild (à moins que je l'ai manquée) puisque c'est une information qui fait partie du contrat. Il est mentionné 700 heures de cours mais en fait il s'agit de beaucoup moins puisque l'essentiel de ces heures sont passées par l'étudiant à chercher. Je compare l'approche de la Wild à l'apprentissage de plusieurs langues simultanément en ayant uniquement le dictionnaire respectif sans avoir leur traduction. Les prérequis sont malheureusement très largement sous-estimés dans un but clair d'obtenir plus d'étudiants. Je constate pendant des discussions libres entre étudiants que les seuls à être à l'aise sont ceux avec déjà les bases de certains langages ou ceux qui utilisent largement ChatGPT. Pour faire simple je suis extrêmement déçu du process général de cette formation que je m'efforce de continuer en espérant que le résultat final me donnera tort."",
+    ""Tout d'abord, je tiens à exprimer mon appréciation pour l'approche pédagogique inversée, que je trouve intéressante pour développer l'autonomie des apprenants. Cependant, je rencontre certaines difficultés que j'aimerais partager, dans le but d'améliorer mon expérience ainsi que celle des autres participants. Difficulté à suivre le rythme et à comprendre le matériel : La quantité de matériel à lire et sa complexité, associées à la nécessité de chercher des informations supplémentaires en ligne, rendent difficile le respect des délais et la compréhension approfondie des concepts. Bien que je fasse de mon mieux pour me rattraper de manière autonome, il m'est parfois difficile de tout compléter dans les temps, et je me sens parfois perdu sur la façon d'appliquer les concepts aux défis proposés."",
+    ""La formation se passe bien. Ma promo est très solidaire et sympathique. Le rythme est élevé mais reste pour le moment abordable."",
+    ""Je trouve certains aspects de la formation brouillons. Nous n'avons pas le temps de comprendre à 100% un logiciel qu'on passe déjà sur deux ou trois autres modules dans la même semaine. Les explications de quêtes sont assez brouillons ou obsolètes sur certaines quêtes. Je trouve parfois que ça manque de professionnalisme pour une formation à presque 8000€. Je m'attends à avoir des réponses claires à mes questions. Étant utilisateur Mac, il manque de documentation sur certaines installations, tout est fait pour Windows, mais avant la formation il n'est pas dit qu'il est préférable d'avoir un environnement Windows !"",
+    ""Formatrice très à l'écoute, promo très agréable ! Parfois trop de quêtes ou quêtes trop longues. Apprentissages super utiles !""
+]"
+Remote - FT - Data Analyst - 09.2024 - Jaune,71.43,80,3,12,"[
+    ""Globalement, je suis bien sauf que le rythme est un peu trop fort et difficile à rattraper pour une personne débutante, malgré que cette formation est principalement dédiée aux débutants.""
+]"
+Remote - FT - Data Analyst - 09.2024 - Bleu,100,95,1,20,"[
+    ""Jonathan est un super formateur à l'écoute qui répond à toutes nos sollicitations et soucieux de notre bien-être dans la formation. Il prend plaisir à nous former et ça se ressent ! J'ai, à mon humble avis, la meilleure promo ! Il y règne un esprit de bienveillance, ce qui me permet de me sentir en confiance et me motive à travailler. J'apprécie la pédagogie de la Wild, l'équilibre du travail en individuel sur les quêtes et en groupe sur les projets apporte une bonne dynamique. On peut ainsi développer notre autonomie tout en apprenant à travailler en équipe."",
+    ""La formation a été très satisfaisante, en grande partie grâce à Jonathan Cambon. Sa méthode simple et structurée a rendu l'apprentissage clair et accessible. Je suis très contente de cette expérience enrichissante."",
+    ""Le formateur est top malgré le rythme très soutenu de la formation, il est toujours là pour nous soutenir et nous aider."",
+    ""Je me sens mieux depuis le début. J'ai pris mes marques."",
+    ""Super formateur qui te donne la pêche à venir malgré tout à la formation chaque matin avec le même enthousiasme. Je suis ravie que toute l'équipe s'accroche, la pédagogie du formateur est à féliciter, merci Jonathan. Par contre pour les quêtes, il serait intéressant de donner plus d'explications."",
+    ""Très bonne ambiance, très bonne cohésion de groupe."",
+    ""Jonathan est un très bon formateur, ce qui nous permet de bien nous sentir dans les concepts abordés."",
+    ""La formation se déroule bien dans l'ensemble, les cours sont bien complémentaires des quêtes."",
+    ""Je me sens comme un poisson dans l’eau avec parfois des vagues intenses parfois calmes.""
+]"
