@@ -18,17 +18,98 @@ L'entreprise possède déjà une base de données qui répertorie les employés,
 # Objectif & Enjeux
 
 Votre tableau de bord doit s'articuler autour de ces 4 sujets principaux : **ventes**, **finances**, **logistique**, et **ressources humaines**.
-Voici les indicateurs obligatoires qui doivent figurer dans votre tableau de bord. Il est recommandé de créer des KPI supplémentaires. Cette partie est très importante pour développer vos compétences/créativité en tant que data analyst.
+Les **indicateurs clés de performance** (**KPI**) ci-dessous sont requis pour ce tableau de bord, avec une distinction claire entre les priorités définies par le client :
 
-- <u><b>Ventes</b></u> : Le nombre de produits vendus par catégorie et par mois, avec comparaison et taux de variation par rapport au même mois de l'année précédente.
+- Rouge : <span style="color:red">Indicateurs obligatoires</span>
+- Vert : <span style="color:green">Indicateurs complémentaires</span>
+- Noir : <span style="color:black">Indicateur optionnels</span>
+
+Il est recommandé de **proposer des KPI supplémentaires**, surtout en cas d’impossibilité technique de répondre à certaines demandes. Cette partie est essentielle pour démontrer votre créativité et vos compétences en tant que data analyst.
+
+- <u><b>Ressources humaines</b></u> :
+  - <span style="color:red">Performance des représentants commerciaux</span>
+
+    Mesurer le chiffre d'affaires généré par chaque employé chargé des ventes.
+
+  - <span style="color:green">Ratio commandes/paiements par représentant commercial</span> :
+
+    Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.
+
+  - <span style="color:black">Performance des bureaux</span> :
+
+    Mesurer le chiffre d'affaire généré par chaque bureau.
+
+- <u><b>Ventes</b></u> :
+  - <span style="color:red">Chiffre d'affaires par mois et par région + taux d'évolution mensuel</span> :
+
+    Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.
+
+  - <span style="color:red">Produits les plus/moins vendus par catégorie</span> :
+
+    Identifier les produits les plus performants dans chaque catégorie.
+
+  - <span style="color:green">La marge brute par produit et par catégorie</span> :
+
+    Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentable.
+
+  - <span style="color:green">Taux d'évolution mensuel des ventes par catégorie</span> :
+
+    Mesurer la performance de chaque catégorie de produit dans le temps.
+
+  - <span style="color:black">Panier moyen</span> :
+
+    Mesurer le panier moyen des commandes.
+
+  - <span style="color:black">Taux de retour des clients (repeat customers)</span> :
+
+    Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.
+
 - <u><b>Finances</b></u> :
-  - Le chiffre d'affaires des commandes des deux derniers mois par pays.
-  - Les commandes qui n'ont pas encore été payées.
-- <u><b>Logistique</b></u> : Le stock des 5 produits les plus commandés.
-- <u><b>Ressources humaines</b></u> : Chaque mois, les 2 vendeurs ayant réalisé le plus de chiffre d'affaires.
+  - <span style="color:red">Clients générant le plus/moins de revenus</span> :
+
+    Identifier les clients générant le plus de revenus pour mieux les fidéliser.
+
+  - <span style="color:green">Taux de recouvrement des créances par client</span> :
+
+    Identifier les clients ayant un montant élevé de commandes non payées.
+
+  - <span style="color:green">Croissance des ventes par trimestre</span> :
+
+    Identifier les tendances saisonnières ou les opportunités de croissance.
+
+  - <span style="color:black">Montant moyen des paiements + clients en dessous de la moyenne</span> :
+
+    Évaluer la capacité de paiement des clients.
+
+  - <span style="color:black">Taux de paiement par délai</span> :
+
+    Identifier combien de temps les clients mettent pour payer après une commande.
+
+- <u><b>Logistique</b></u> :
+
+  - <span style="color:red">Stock des produits sous seuil critique</span> :
+
+    Identifier les produits dont le stock est faible pour éviter les ruptures.
+
+  - <span style="color:green">Durée moyenne de traitement des commandes + commandes au-dessus de la moyenne de livraison</span> :
+
+    Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.
+
+  - <span style="color:green">Taux d’écoulement des stocks</span> :
+
+    Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
+
+  - <span style="color:black">Taux de commandes livrées en retard</span> :
+
+    Identifier les problèmes logistiques et améliorer les délais de livraison.
 
 Il arrive parfois que certains indicateurs métiers ne soient pas réalisables techniquement. C'est à vous d'expliquer pourquoi et de proposer vos propres idées pour répondre aux besoins métiers.
+
+**Note importante** : Les stocks sont mis à jour tous les deux mois. Par conséquent, les données actuelles reflètent uniquement les deux derniers mois.
 {: .alert-info }
+
+Si des limitations techniques empêchent de répondre à certains KPI, proposez des alternatives alignées avec les objectifs métiers du client.
+{: .alert-warning }
 
 # Ressources
 
@@ -66,17 +147,6 @@ Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l'entreprise
 
 ![MySQL_Connect](assets/image/mysql_connection.PNG)
 {: .text-center }
-
-# Notes
-
-Vous pouvez choisir votre propre outil de reporting. Cependant, l'objectif est de pratiquer **SQL**. Par conséquent, vous devez obtenir les données via des requêtes SQL. Par exemple, pour les "2 vendeurs ayant réalisé le plus de chiffre d'affaires chaque mois" :
-
-## <b>Ce que nous aimerions voir :</b>
-
-<b>Une requête SQL montrant **uniquement** les "2 vendeurs ayant réalisé le plus de chiffre d'affaires chaque mois", et une dataviz pour l'afficher.</b>
-
-## <b>Ce que nous ne voulons pas :</b>
-<b>Une requête SQL montrant tous les vendeurs, puis un filtrage dans votre outil de reporting.</b>
 
 # Livrable attendu
 
