@@ -29,79 +29,79 @@ Il est recommandé de **proposer des KPI supplémentaires**, surtout en cas d’
 - <u><b>Ressources humaines</b></u> :
   - <span style="color:red">Performance des représentants commerciaux</span>
 
-    Mesurer le chiffre d'affaires généré par chaque employé chargé des ventes.
+    <span style="color:red">Mesurer le chiffre d'affaires généré par chaque employé chargé des ventes.</span>
 
-  - <span style="color:green">Ratio commandes/paiements par représentant commercial</span> :
+  - <span style="color:green">Ratio commandes/paiements par représentant commercial :</span>
 
-    Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.
+    <span style="color:green">Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.</span>
 
   - <span style="color:black">Performance des bureaux</span> :
 
-    Mesurer le chiffre d'affaire généré par chaque bureau.
+    <span style="color:black">Mesurer le chiffre d'affaire généré par chaque bureau.</span>
 
 - <u><b>Ventes</b></u> :
   - <span style="color:red">Chiffre d'affaires par mois et par région + taux d'évolution mensuel</span> :
 
-    Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.
+    <span style="color:red">Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.</span>
 
   - <span style="color:red">Produits les plus/moins vendus par catégorie</span> :
 
-    Identifier les produits les plus performants dans chaque catégorie.
+    <span style="color:red">Identifier les produits les plus performants dans chaque catégorie.</span>
 
   - <span style="color:green">La marge brute par produit et par catégorie</span> :
 
-    Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentable.
+    <span style="color:green">Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentable.</span>
 
   - <span style="color:green">Taux d'évolution mensuel des ventes par catégorie</span> :
 
-    Mesurer la performance de chaque catégorie de produit dans le temps.
+    <span style="color:green">Mesurer la performance de chaque catégorie de produit dans le temps.</span>
 
   - <span style="color:black">Panier moyen</span> :
 
-    Mesurer le panier moyen des commandes.
+    <span style="color:black">Mesurer le panier moyen des commandes.</span>
 
   - <span style="color:black">Taux de retour des clients (repeat customers)</span> :
 
-    Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.
+    <span style="color:black">Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.</span>
 
 - <u><b>Finances</b></u> :
   - <span style="color:red">Clients générant le plus/moins de revenus</span> :
 
-    Identifier les clients générant le plus de revenus pour mieux les fidéliser.
+    <span style="color:red">Identifier les clients générant le plus de revenus pour mieux les fidéliser.</span>
 
   - <span style="color:green">Taux de recouvrement des créances par client</span> :
 
-    Identifier les clients ayant un montant élevé de commandes non payées.
+    <span style="color:green">Identifier les clients ayant un montant élevé de commandes non payées.</span>
 
   - <span style="color:green">Croissance des ventes par trimestre</span> :
 
-    Identifier les tendances saisonnières ou les opportunités de croissance.
+    <span style="color:green">Identifier les tendances saisonnières ou les opportunités de croissance.</span>
 
   - <span style="color:black">Montant moyen des paiements + clients en dessous de la moyenne</span> :
 
-    Évaluer la capacité de paiement des clients.
+    <span style="color:black">Évaluer la capacité de paiement des clients.</span>
 
   - <span style="color:black">Taux de paiement par délai</span> :
 
-    Identifier combien de temps les clients mettent pour payer après une commande.
+    <span style="color:black">Identifier combien de temps les clients mettent pour payer après une commande.</span>
 
 - <u><b>Logistique</b></u> :
 
   - <span style="color:red">Stock des produits sous seuil critique</span> :
 
-    Identifier les produits dont le stock est faible pour éviter les ruptures.
+    <span style="color:red">Identifier les produits dont le stock est faible pour éviter les ruptures.</span>
 
   - <span style="color:green">Durée moyenne de traitement des commandes + commandes au-dessus de la moyenne de livraison</span> :
 
-    Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.
+    <span style="color:green">Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.</span>
 
   - <span style="color:green">Taux d’écoulement des stocks</span> :
 
-    Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
+    <span style="color:green">Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.</span>
 
   - <span style="color:black">Taux de commandes livrées en retard</span> :
 
-    Identifier les problèmes logistiques et améliorer les délais de livraison.
+    <span style="color:black">Identifier les problèmes logistiques et améliorer les délais de livraison.</span>
 
 Il arrive parfois que certains indicateurs métiers ne soient pas réalisables techniquement. C'est à vous d'expliquer pourquoi et de proposer vos propres idées pour répondre aux besoins métiers.
 
