@@ -37,32 +37,32 @@ Chacune de ces phases est réalisée de manière collaborative et itérative en 
 
 ## Phases de Développement
 
-- 1. Collecte et Extraction des Données
+1. **Collecte et Extraction des Données**
 
     - **Technologies** : Python, requests, Selenium.
     - **Objectif** : Récupérer les offres d’emploi via APIs et scraping, et collecter d’autres données associées (CV, etc.).
 
-- 2. Traitement et Nettoyage des Données
+2. **Traitement et Nettoyage des Données**
 
     - **Technologies** : Python, pandas.
     - **Objectif** : Nettoyer, dédupliquer et standardiser les données pour créer un modèle de données optimal.
 
-- 3. Automatisation ETL
+3. **Automatisation ETL**
 
     - **Technologies** : Mage AI, Airflow, Python.
     - **Objectif** : Automatiser les processus d’extraction, transformation et chargement des données.
 
-- 4. Stockage et Infrastructure
+4. **Stockage et Infrastructure**
 
     - **Technologies** : PostgreSQL (local et cloud), AWS S3.
     - **Objectif** : Centraliser et sécuriser les données tout en assurant leur accessibilité.
 
-- 5. Interface Utilisateur
+5. **Interface Utilisateur**
 
     - **Technologies** : Streamlit, Django, Dash, PowerBI, Tableau...
     - **Objectif** : Offrir une interface intuitive pour présenter les résultats et permettre aux utilisateurs d’interagir avec les données.
 
-- 6. Fonctionnalités IA
+6. **Fonctionnalités IA**
 
     - **Technologies** : Python, API des IAs (Gemini, xAI, OpenAI, DeepSeek-V3...), LangChain, OpenAI.
     - **Objectif** : Fournir des analyses de marché, des recommandations et des interactions IA suivant les besoins des clients.
