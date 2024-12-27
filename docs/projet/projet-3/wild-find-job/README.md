@@ -6,7 +6,7 @@ layout: default
 
 ## Introduction et Contexte
 
-![header](assets/image/header.PNG)
+![header](assets/image/header.jpg)
 {: .text-center}
 
 Le projet **WildFindJob** a pour objectif de fournir une solution innovante pour l’analyse du marché de l’emploi dans la DATA. En mettant en œuvre des techniques modernes de collecte, traitement, et automatisation des données, ce projet permet de répondre aux besoins des clients en termes de recherche d’offres d’emploi, d’analyse de tendances, et d’intégration de fonctionnalités IA.
