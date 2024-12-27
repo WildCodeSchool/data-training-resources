@@ -6,8 +6,8 @@ layout: default
 
 ## Introduction et Contexte
 
-<!-- ![Header](assets/image/header.PNG)
-{: .text-center } -->
+![Header](assets/image/gras.jpeg.PNG)
+{: .text-center }
 
 Le projet **WildSearchFood** vise à fournir une solution innovante pour l’analyse et la recherche de restaurants en combinant des données issues d’APIs comme Yelp avec des sources Open Data. Ce projet répond aux besoins des utilisateurs en matière de recherche personnalisée, d’analyse des avis clients, et de visualisation des tendances sous forme de dashboards interactifs.
 
