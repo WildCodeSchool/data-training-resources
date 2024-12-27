@@ -1,6 +1,6 @@
 ---
 title: Wild Find Job
-description: 'Analyse du marché de l'emploi dans la DATA'
+description: ''
 layout: default
 ---
 

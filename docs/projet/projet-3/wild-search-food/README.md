@@ -1,13 +1,13 @@
 ---
 title: Wild Search Food
-description: 'Analyse et recherche de restaurants avec données APIs et Open Data'
+description: ''
 layout: default
 ---
 
 ## Introduction et Contexte
 
-![Header](assets/image/header.PNG)
-{: .text-center }
+<!-- ![Header](assets/image/header.PNG)
+{: .text-center } -->
 
 Le projet **WildSearchFood** vise à fournir une solution innovante pour l’analyse et la recherche de restaurants en combinant des données issues d’APIs comme Yelp avec des sources Open Data. Ce projet répond aux besoins des utilisateurs en matière de recherche personnalisée, d’analyse des avis clients, et de visualisation des tendances sous forme de dashboards interactifs.
 
@@ -33,57 +33,57 @@ Le projet se déroule en plusieurs phases organisées de manière itérative et 
 
 ## Phases de Développement
 
-### 1. Collecte des Données via API
+1. Collecte des Données via API
 
-- **Technologies** : Python, API Yelp, APIs Open Data.
-- **Objectif** :
-  - Récupérer les données des restaurants (informations, notes, commentaires) via l’API Yelp (300 requêtes/jour gratuites).
-  - Enrichir les données avec des sources Open Data.
-- **Lien avec l’étape suivante** : Les données brutes au format JSON sont transmises au processus de nettoyage pour structuration.
+    - **Technologies** : Python, API Yelp, APIs Open Data.
+    - **Objectif** :
+    - Récupérer les données des restaurants (informations, notes, commentaires) via l’API Yelp (300 requêtes/jour gratuites).
+    - Enrichir les données avec des sources Open Data.
+    - **Lien avec l’étape suivante** : Les données brutes au format JSON sont transmises au processus de nettoyage pour structuration.
 
-### 2. Prétraitement et Nettoyage des Données
+2. Prétraitement et Nettoyage des Données
 
-- **Technologies** : Python, pandas, datetime, re, json.
-- **Objectif** :
-  - Nettoyer et structurer les données JSON.
-  - Extraire les informations pertinentes et standardiser les formats pour faciliter leur exploitation.
-- **Lien avec l’étape suivante** : Les données nettoyées sont préparées pour le chargement dans une base de données via une brique ETL.
+    - **Technologies** : Python, pandas, datetime, re, json.
+    - **Objectif** :
+    - Nettoyer et structurer les données JSON.
+    - Extraire les informations pertinentes et standardiser les formats pour faciliter leur exploitation.
+    - **Lien avec l’étape suivante** : Les données nettoyées sont préparées pour le chargement dans une base de données via une brique ETL.
 
-### 3. Base de Données et ETL
+3. Base de Données et ETL
 
-- **Technologies** : Mage AI (ETL), PostgreSQL (local), PostgreSQL (Cloud, optionnel).
-- **Objectif** :
-  - Utiliser Mage AI pour orchestrer les processus d’Extraction, Transformation et Chargement des données (ETL).
-  - Stocker les données nettoyées et structurées dans une base PostgreSQL.
-- **Lien avec l’étape suivante** : La base de données alimente les dashboards interactifs et l'interface utilisateur.
+    - **Technologies** : Mage AI (ETL), PostgreSQL (local), PostgreSQL (Cloud, optionnel).
+    - **Objectif** :
+    - Utiliser Mage AI pour orchestrer les processus d’Extraction, Transformation et Chargement des données (ETL).
+    - Stocker les données nettoyées et structurées dans une base PostgreSQL.
+    - **Lien avec l’étape suivante** : La base de données alimente les dashboards interactifs et l'interface utilisateur.
 
-### 4. Visualisation et Dashboard
+4. Visualisation et Dashboard
 
-- **Technologies** : Streamlit, bibliothèques de visualisation (plotly, etc.), PowerBI.
-- **Objectif** :
-  - Créer des dashboards dynamiques et interactifs comprenant :
-    - Notes moyennes des restaurants.
-    - Scatter plots (prix vs qualité).
-    - Word clouds des commentaires.
-    - Cartographie des résultats.
-- **Lien avec l’étape suivante** : Les visualisations sont intégrées dans l'interface utilisateur finale.
+    - **Technologies** : Streamlit, bibliothèques de visualisation (plotly, etc.), PowerBI.
+    - **Objectif** :
+    - Créer des dashboards dynamiques et interactifs comprenant :
+        - Notes moyennes des restaurants.
+        - Scatter plots (prix vs qualité).
+        - Word clouds des commentaires.
+        - Cartographie des résultats.
+    - **Lien avec l’étape suivante** : Les visualisations sont intégrées dans l'interface utilisateur finale.
 
-### 5. Interface Utilisateur
+5. Interface Utilisateur
 
-- **Technologies** : Streamlit.
-- **Objectif** :
-  - Développer une interface utilisateur innovante permettant :
-    - Recherche personnalisée de restaurants.
-    - Génération automatique de dashboards.
-    - Sauvegarde des recherches et visualisations.
+    - **Technologies** : Streamlit.
+    - **Objectif** :
+    - Développer une interface utilisateur innovante permettant :
+        - Recherche personnalisée de restaurants.
+        - Génération automatique de dashboards.
+        - Sauvegarde des recherches et visualisations.
 
-### 6. Fonctionnalités IA (Optionnelles)
+6. Fonctionnalités IA (Optionnelles)
 
-- **Technologies** : Gemini API, modèles de langage.
-- **Objectifs** :
-  - Topic modeling sur les descriptions de restaurants.
-  - Analyse d’images pour décrire le cadre des restaurants.
-  - Traitement avancé des avis clients.
+    - **Technologies** : Gemini API, modèles de langage.
+    - **Objectifs** :
+    - Topic modeling sur les descriptions de restaurants.
+    - Analyse d’images pour décrire le cadre des restaurants.
+    - Traitement avancé des avis clients.
 
 ## Missions et Livrables Attendus
 
