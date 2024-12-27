@@ -1,5 +1,6 @@
 ---
 title: Wild Search Food
+description: ''
 layout: default
 ---
 
