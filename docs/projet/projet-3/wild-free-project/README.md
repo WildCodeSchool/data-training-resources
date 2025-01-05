@@ -1,5 +1,5 @@
 ---
-title: Wild Data Project
+title: Wild Data Hub
 description: ' '
 layout: default
 ---
