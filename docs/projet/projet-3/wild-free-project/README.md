@@ -1,21 +1,21 @@
 ---
-title: Projet d'Analyse de Données
+title: Wild Free Project
 description: ' '
 layout: default
 ---
 
 ## Introduction et Contexte
 
-![header](assets/image/header.jpg)
+![Header](assests/image/header.jpg)
 {: .text-center}
 
-Le projet vise à développer une solution complète d'analyse de données permettant de collecter, traiter et visualiser des informations à partir de diverses sources. Cette approche permet aux utilisateurs de bénéficier d'insights pertinents grâce à des tableaux de bord interactifs et des analyses approfondies.
+Le projet vise à développer une solution complète d'analyse de données permettant de collecter, traiter et visualiser des informations à partir de diverses sources. Cette approche permet aux utilisateurs de bénéficier d'insights pertinents grâce à des tableaux de bord interactifs et des analyses approfondies notamment avec de l'utilisation de la puissance des API de l'IA-Générative.
 
 ## Objectifs Pédagogiques
 
 - Maîtriser les techniques de collecte de données à partir de différentes sources (APIs, fichiers, bases de données).
 - Développer des compétences en prétraitement et nettoyage de données avec Python.
-- Concevoir et implémenter un pipeline ETL robuste.
+- Concevoir et implémenter un pipeline ETL.
 - Gérer efficacement une base de données relationnelle.
 - Créer des visualisations interactives et des tableaux de bord dynamiques.
 - Explorer les possibilités d'enrichissement par l'intelligence artificielle.
@@ -31,7 +31,7 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
 5. Interface Utilisateur
 6. Enrichissement IA (optionnel)
 
-![architecture](assets/image/architecture.PNG)
+![Architecture](assests/image/architecture.PNG)
 {: .text-center}
 
 ## Phases de Développement
@@ -54,9 +54,9 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
 
 3. Infrastructure de Données
 
-    - **Technologies** : Outil ETL au choix, Base de données SQL/NoSQL
+    - **Technologies** : Outil ETL au choix, Base de données PostregreSQL
     - **Objectif** :
-    - Implémenter un pipeline ETL robuste et automatisé
+    - Implémenter un pipeline ETL automatisé
     - Concevoir et maintenir une base de données adaptée au projet
     - **Lien avec l'étape suivante** : La base de données alimente les visualisations
 
@@ -108,3 +108,9 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
 - Utiliser le contrôle de version (git)
 - Planifier des points d'étape réguliers
 - Prévoir une phase de test utilisateur
+- 
+## Ressources
+
+- [Liste non-exhaustive des APIs à utiliser](https://docs.google.com/document/d/1dCX3NebD60zSlT4ZJN2Whzxp0t0Z6AexauqmoI6a80k/edit?tab=t.brs3ncpwpypy)
+- [Streamlit](https://www.youtube.com/@CodingIsFun/playlists)
+- [Dash](https://www.youtube.com/@CharmingData)
