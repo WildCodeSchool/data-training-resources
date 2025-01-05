@@ -107,7 +107,7 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
 - Utiliser le contrôle de version (git)
 - Planifier des points d'étape réguliers
 - Prévoir une phase de test utilisateur
-- 
+  
 ## Ressources
 
 - [Liste non-exhaustive des APIs à utiliser](https://docs.google.com/document/d/1dCX3NebD60zSlT4ZJN2Whzxp0t0Z6AexauqmoI6a80k/edit?tab=t.brs3ncpwpypy)
