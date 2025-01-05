@@ -1,5 +1,5 @@
 ---
-title: Wild Free Project
+title: Wild Data Project
 description: ' '
 layout: default
 ---
@@ -10,7 +10,6 @@ layout: default
 {: .text-center}
 
 Ce projet est une vraie aventure dans le monde des données ! Vous allez créer de A à Z votre propre application d'analyse de données. Le plus cool ? C'est VOUS qui choisissez votre sujet et vos sources de données. Que vous soyez passionné(e) par :
-
     - Le business et l'analyse de marchés
     - La production industrielle et l'optimisation
     - La finance et les tendances économiques
