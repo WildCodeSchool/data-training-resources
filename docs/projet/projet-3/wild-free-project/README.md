@@ -63,8 +63,7 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
 4. Visualisation
 
     - **Technologies** : Outils de dataviz (Streamlit, Dash, PowerBI...)
-    - **Objectif** :
-        - Développer des tableaux de bord dynamiques incluant :
+    - **Objectif** : Développer des tableaux de bord dynamiques incluant :
             - Indicateurs clés de performance
             - Graphiques interactifs
             - Analyses temporelles
