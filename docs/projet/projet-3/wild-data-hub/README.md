@@ -123,6 +123,6 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
   
 ## Ressources
 
-- [Liste non-exhaustive des APIs à utiliser](https://docs.google.com/document/d/1dCX3NebD60zSlT4ZJN2Whzxp0t0Z6AexauqmoI6a80k/edit?tab=t.brs3ncpwpypy)
+- [Liste non-exhaustive des APIs à utiliser](https://docs.google.com/document/d/1HZcOZ60cGACjA56UJY5l-vTVvXdguJNhL4woeXBPtJo/edit?usp=sharing)
 - [Streamlit](https://www.youtube.com/@CodingIsFun/playlists)
 - [Dash](https://www.youtube.com/@CharmingData)
