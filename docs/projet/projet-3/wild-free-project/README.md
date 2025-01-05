@@ -42,7 +42,7 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
     - **Objectif** :
         - Mettre en place un système de collecte de données adapté aux sources choisies
         - Assurer une collecte régulière et fiable des données
-        - **Lien avec l'étape suivante** : Les données brutes sont transmises au processus de nettoyage
+    - **Lien avec l'étape suivante** : Les données brutes sont transmises au processus de nettoyage
 
 2. Traitement et Nettoyage
 
@@ -50,7 +50,7 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
     - **Objectif** :
         - Nettoyer et structurer les données collectées
         - Standardiser les formats pour une exploitation optimale
-        - **Lien avec l'étape suivante** : Les données nettoyées sont prêtes pour l'intégration en base de données
+    - **Lien avec l'étape suivante** : Les données nettoyées sont prêtes pour l'intégration en base de données
 
 3. Infrastructure de Données
 
@@ -58,17 +58,17 @@ Le projet se déroule sur 4 semaines selon une approche itérative et collaborat
     - **Objectif** :
         - Implémenter un pipeline ETL automatisé
         - Concevoir et maintenir une base de données adaptée au projet
-        - **Lien avec l'étape suivante** : La base de données alimente les visualisations
+    - **Lien avec l'étape suivante** : La base de données alimente les visualisations
 
 4. Visualisation
 
     - **Technologies** : Outils de dataviz (Streamlit, Dash, PowerBI...)
     - **Objectif** :
-    - Développer des tableaux de bord dynamiques incluant :
-        - Indicateurs clés de performance
-        - Graphiques interactifs
-        - Analyses temporelles
-        - Visualisations géographiques si pertinent
+        - Développer des tableaux de bord dynamiques incluant :
+            - Indicateurs clés de performance
+            - Graphiques interactifs
+            - Analyses temporelles
+            - Visualisations géographiques si pertinent
     - **Lien avec l'étape suivante** : Les visualisations sont intégrées à l'interface utilisateur
 
 5. Interface Utilisateur
