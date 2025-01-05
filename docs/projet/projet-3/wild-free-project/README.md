@@ -19,7 +19,7 @@ Ce projet est une vraie aventure dans le monde des données ! Vous allez créer 
 - Les médias sociaux et le marketing digital
 - La musique ou le cinéma
 - Les jeux vidéo et le gaming
-- ... ou tout autre domaine qui vous intéresse, vous pourrez orienter votre projet dans cette direction !
+... ou tout autre domaine qui vous intéresse, vous pourrez orienter votre projet dans cette direction !
 
 Bien sûr, pour que tout le monde puisse avancer ensemble et s'entraider, on suivra les mêmes étapes et la même structure de projet. Vous devez respecter le workflow suivant : collecter des données, les transformer, les analyser et créer des tableaux de bord visuels, vous êtes des DATA-Analystes maintenant, vous savez de quoi on parle. Et pour rendre tout ça encore plus intéressant, on utilisera même l'IA pour enrichir vos analyses !
 
