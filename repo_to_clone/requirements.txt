@@ -1,0 +1,5 @@
+python-dotenv
+sshtunnel
+psycopg2-binary     # PostgreSQL adapter for Python
+pandas
+datetime
