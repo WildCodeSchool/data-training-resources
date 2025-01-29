@@ -1,4 +1,4 @@
-# Installation de Mage AI avec Docker et PostgreSQL
+# Installation de Mage AI avec Docker et PostgreSQL (WINDOWS !!!!!)
 
 Ce guide vous permettra d'installer et de configurer Mage AI avec PostgreSQL dans un environnement Docker.
 
