@@ -65,7 +65,7 @@ repo_to_clone/
 ├── Dockerfile           # Instructions de build de l'image
 ├── io_config.yaml       # Configuration Mage AI
 ├── requirements.txt     # Dépendances Python
-└── README.md            # Ce fichier
+└── README_Windows.md            # Ce fichier
 ```
 
 ## 4. Construction et démarrage des conteneurs
