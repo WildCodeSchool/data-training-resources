@@ -36,10 +36,10 @@ docker system prune -a
 
 ```bash
 # Cloner le repository
-git clone [URL_DU_REPO]
+git clone https://github.com/WildCodeSchool/data-training-resources.git repo_to_clone
 
 # Accéder au dossier du projet
-cd [NOM_DU_DOSSIER]
+cd repo_to_clone
 ```
 
 ## 2. Configuration de l'environnement Python
@@ -58,7 +58,7 @@ python -m venv docker_mage
 Vérifiez que vous avez bien tous les fichiers nécessaires :
 
 ```
-mage-zoomcamp/
+mage-wildcamp/
 │
 ├── .env                  # Variables d'environnement
 ├── docker-compose.yml    # Configuration Docker Compose
