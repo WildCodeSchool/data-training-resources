@@ -10,7 +10,7 @@ Ce guide vous permettra d'installer et de configurer Mage AI avec PostgreSQL dan
 - Extension Docker pour VSCode (recommandée)
 - Git installé sur votre machine
 
-## 1. Préparation de l'environnement
+## 1. Préparation de l'environnement (Sur VSCode ou sur PowerShell windows, On recommande fortement VSCode)
 
 ### 1.1 Nettoyage de Docker (si nécessaire)
 
@@ -32,17 +32,7 @@ docker system prune -a
 
 ⚠️ **Attention** : La commande `docker system prune -a` supprimera toutes les images Docker non utilisées. Assurez-vous de ne pas avoir des images importantes que vous souhaitez conserver.
 
-### 1.2 Cloner le repository
-
-```bash
-# Cloner le repository
-git clone https://github.com/WildCodeSchool/data-training-resources.git repo_to_clone
-
-# Accéder au dossier du projet
-cd repo_to_clone
-```
-
-## 2. Configuration de l'environnement Python
+### 1.2 Configuration de l'environnement Python
 
 ```bash
 # Créer un environnement virtuel
@@ -53,12 +43,22 @@ python -m venv docker_mage
 .\docker_mage\Scripts\activate
 ```
 
+## 2. Cloner le repository
+
+```bash
+# Cloner le repository
+git clone https://github.com/WildCodeSchool/data-training-resources.git repo_to_clone
+
+# Accéder au dossier du projet
+cd .\repo_to_clone\
+```
+
 ## 3. Structure des fichiers
 
 Vérifiez que vous avez bien tous les fichiers nécessaires :
 
 ```
-mage-wildcamp/
+repo_to_clone/
 │
 ├── .env                  # Variables d'environnement
 ├── docker-compose.yml    # Configuration Docker Compose
@@ -70,6 +70,16 @@ mage-wildcamp/
 
 ## 4. Construction et démarrage des conteneurs
 
+Assurez-vous d'être dans le bon dossier :
+```bash
+# Vérifier que vous êtes dans le dossier mage-wildcamp
+pwd
+
+# Si ce n'est pas le cas, naviguez vers le bon dossier
+cd mage-wildcamp
+```
+
+Ensuite, lancez la construction et le démarrage :
 ```bash
 # Construire les images
 docker compose build
@@ -82,7 +92,6 @@ Pour exécuter en arrière-plan (mode détaché) :
 ```bash
 docker compose up -d
 ```
-
 ## 5. Vérification de l'installation
 
 1. Ouvrez Docker Desktop et vérifiez que les deux conteneurs sont en cours d'exécution :
