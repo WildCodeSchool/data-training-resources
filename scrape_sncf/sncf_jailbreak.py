@@ -1,3 +1,8 @@
+import os
+import platform
+import time
+import random
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -7,8 +12,6 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
-import time
-import random
 
 def valider_et_formater_heure(heure_str):
     """
@@ -53,17 +56,32 @@ def demander_donnees_utilisateur():
     return ville_depart, ville_arrivee, date_depart, date_retour, heure_depart, heure_retour
 
 def initialiser_navigateur():
-    """
-    Configure et initialise le navigateur Chrome avec le profil utilisateur.
-    Retourne l'instance du navigateur.
-    """
+    
     options = webdriver.ChromeOptions()
-    # Indiquer le chemin du profil Chrome réel
-    options.add_argument(r"--user-data-dir=C:\Users\coach\AppData\Local\Google\Chrome\User Data")
-    options.add_argument(r"--profile-directory=Default")
-    # Désactiver la détection du bot
+
+    # Récupérer le répertoire personnel de l'utilisateur
+    repertoire_utilisateur = os.path.expanduser("~")
+    
+    # Déterminer le chemin du profil Chrome selon le système d'exploitation
+    if platform.system() == "Windows":
+        chemin_profil = os.path.join(repertoire_utilisateur, "AppData", "Local", "Google", "Chrome", "User Data")
+    elif platform.system() == "Darwin":  # Mac OS
+        chemin_profil = os.path.join(repertoire_utilisateur, "Library", "Application Support", "Google", "Chrome")
+    else:
+        # Pour Linux par exemple, vous pouvez ajouter :
+        # chemin_profil = os.path.join(repertoire_utilisateur, ".config", "google-chrome")
+        chemin_profil = None
+
+    # Si un chemin a été défini, l'ajouter aux options de Chrome
+    if chemin_profil:
+        options.add_argument(f"--user-data-dir={chemin_profil}")
+        # Vous pouvez spécifier un sous-dossier de profil (par exemple "Default") si besoin
+        options.add_argument("--profile-directory=Default")
+
+    # Désactiver la détection des automatisations par le navigateur
     options.add_argument("--disable-blink-features=AutomationControlled")
-    # Lancer Chrome avec le driver adapté
+
+    # Créer et retourner l'instance du navigateur
     navigateur = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return navigateur
 
