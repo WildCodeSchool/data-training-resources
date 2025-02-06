@@ -1,0 +1,4 @@
+selenium>=4.16.0
+webdriver-manager>=4.0.1
+python-time-utils>=1.0.0
+random2>=1.0.1
