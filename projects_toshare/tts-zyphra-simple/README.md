@@ -1,3 +1,5 @@
+Voici un exemple de fichier `README.md` en français pour configurer, installer et exécuter ce code :
+
 ---
 
 # Text-to-Speech avec Zyphra (Exemple synchronisé)
@@ -87,11 +89,11 @@ en un fichier audio nommé `output.webm` qui sera généré dans le même réper
 
 ## Licence
 
-Wild Code School - Soufiane Maski
+Indiquez ici la licence de votre projet (par exemple, MIT License).
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue dans le dépôt ou à me contacter directement: soufianemaski1@gmail.com
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une _issue_ dans le dépôt ou à me contacter directement.
 
 ---
 
