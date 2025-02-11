@@ -1,0 +1,5 @@
+fastapi
+streamlit
+zyphra
+nest_asyncio
+python-dotenv
