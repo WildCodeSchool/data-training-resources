@@ -1,8 +1,6 @@
-Voici un exemple de fichier `README.md` en français pour configurer, installer et exécuter ce code :
-
 ---
 
-# Text-to-Speech avec Zyphra (Exemple synchronisé)
+# Text-to-Speech avec Zyphra
 
 Ce script simple convertit un texte en audio à l'aide de l'API Zyphra. Le code s'exécute de manière synchronisée et génère un fichier audio directement dans le répertoire de travail.
 
