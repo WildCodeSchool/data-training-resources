@@ -4,7 +4,7 @@ description: 'NYC Taxi Services'
 layout: default
 ---
 
-![Header](assets/image/header.png)
+![Header](assets/header.png)
 {: .text-center }
 
 ## **Contexte et Présentation de l’Entreprise**
@@ -106,4 +106,4 @@ En exploitant ce jeu de données, l’entreprise cherche à répondre à des que
 
 ## Ressources
 
-Lien pour les CSV : https://drive.google.com/drive/folders/1To9yVwsC-EJrbR7roflp83-JAKfco6iX
+Lien pour les CSV : [https://drive.google.com/drive/folders/1To9yVwsC-EJrbR7roflp83-JAKfco6iX]()
