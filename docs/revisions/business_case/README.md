@@ -4,7 +4,7 @@ description: 'NYC Taxi Services'
 layout: default
 ---
 
-![Header](assets/image/header.jpg)
+![Header](assets/image/header.png)
 {: .text-center }
 
 ## **Contexte et Présentation de l’Entreprise**
@@ -104,3 +104,6 @@ En exploitant ce jeu de données, l’entreprise cherche à répondre à des que
 17. **Total\_amount**
     * **Description :** Montant total facturé au passager (hors pourboires en espèces).
 
+## Ressources
+
+Lien pour les CSV : https://drive.google.com/drive/folders/1To9yVwsC-EJrbR7roflp83-JAKfco6iX
