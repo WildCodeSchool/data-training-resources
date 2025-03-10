@@ -104,7 +104,7 @@ Afin de faciliter leur récupération dans Power BI, vous devez créer des vues 
 
 Exemple de schéma en étoile possible
 
-![Schéma en Étoile](https://drive.google.com/file/d/1Ryyz3lSvNCS0zg4Fc_anS-2neVbpjjnb/view)
+![Schéma en Étoile](assets/star.png)
 
 💡 **Objectif** : Avoir une structure optimisée pour Power BI afin de faciliter la création des KPI sans refaire des calculs lourds dans Power BI.
 
