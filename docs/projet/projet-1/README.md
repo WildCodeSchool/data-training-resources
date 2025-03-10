@@ -37,12 +37,12 @@ Avant de passer à la création du tableau de bord dans Power BI, vous devez cal
 ### Calcul des KPI en SQL
 Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vous pouvez également ajouter des indicateurs supplémentaires si vous le souhaitez.
 
-## 📌 Ressources humaines
+### 📌 Ressources humaines
 - 🔴 **Performance des représentants commerciaux** : Calculer le chiffre d’affaires généré par chaque employé chargé des ventes.
 - 🟢 **Ratio commandes/paiements par représentant commercial** : Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.
 - 🟢 **Performance des bureaux** : Mesurer le chiffre d’affaires généré par chaque bureau.
 
-## 📌 Ventes
+### 📌 Ventes
 - 🔴 **Chiffre d’affaires par mois et par région + taux d’évolution mensuel** : Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.
 - 🔴 **Produits les plus/moins vendus par catégorie** : Identifier les produits les plus performants dans chaque catégorie.
 - 🟢 **La marge brute par produit et par catégorie** : Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentables.
@@ -50,7 +50,7 @@ Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vou
 - ⚫ **Panier moyen** : Mesurer le panier moyen des commandes.
 - ⚫ **Taux de retour des clients (repeat customers)** : Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.
 
-## 📌 Finances
+### 📌 Finances
 - 🔴 **Clients générant le plus/moins de revenus** : Identifier les clients générant le plus de revenus pour mieux les fidéliser.
 - 🟢 **Taux de recouvrement des créances par client** : Identifier les clients ayant un montant élevé de commandes non payées.
 - ⚫ **Croissance des ventes par trimestre** : Identifier les tendances saisonnières ou les opportunités de croissance.
@@ -140,6 +140,7 @@ Si des limitations techniques empêchent de répondre à certains KPI, proposez 
 
 Requetes pour générer la dim_date :
 
+```sql
 CREATE VIEW DIM_DATES AS
 WITH RECURSIVE date_series AS (
     SELECT DATE('2019-01-01') AS full_date
@@ -158,6 +159,7 @@ SELECT
     DAY(full_date) AS day_of_month,
     DAYNAME(full_date) AS day_name
 FROM date_series;
+```
 
 Voici le schéma de la base de données :
 
