@@ -3,10 +3,10 @@ title: Projet 1
 description: 'SQL & BI - Toys & Models'
 ---
 
-# Introduction
-
 ![Header](assets/image/header.PNG)
 {: .text-center }
+
+## Introduction
 
 Vous êtes mandaté par une entreprise qui vend des modèles et des maquettes.
 
@@ -14,7 +14,7 @@ L’entreprise possède déjà une base de données qui répertorie les employé
 
 **Le directeur de l’entreprise souhaite avoir un tableau de bord dynamique qu’il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l’entreprise.**
 
-# Objectif & Enjeux
+## Objectif & Enjeux
 
 Votre tableau de bord doit s'articuler autour de ces 4 sujets principaux : **ventes**, **finances**, **logistique**, et **ressources humaines**.
 
@@ -26,23 +26,23 @@ Les **indicateurs clés de performance** (**KPI**) ci-dessous sont requis pour c
 
 Il est recommandé de **proposer des KPI supplémentaires**, surtout en cas d’impossibilité technique de répondre à certaines demandes. Cette partie est essentielle pour démontrer votre créativité et vos compétences en tant que data analyst.
 
-## I. Partie 1 : Calcul des Métriques en SQL
+### I. Partie 1 : Calcul des Métriques en SQL
 
-### 📌 Objectif de la Partie SQL
+#### 📌 Objectif de la Partie SQL
 Avant de passer à la création du tableau de bord dans Power BI, vous devez calculer toutes les métriques en SQL. Cela vous permettra de :
 - Valider les calculs avant de les visualiser dans Power BI.
 - Structurer les données pour faciliter leur utilisation dans Power BI.
 - Optimiser les performances en évitant des calculs lourds dans Power BI.
 
-### Calcul des KPI en SQL
+#### Calcul des KPI en SQL
 Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vous pouvez également ajouter des indicateurs supplémentaires si vous le souhaitez.
 
-#### 📌 Ressources humaines :
+##### 📌 Ressources humaines
 - 🔴 **Performance des représentants commerciaux** : Calculer le chiffre d’affaires généré par chaque employé chargé des ventes.
 - 🟢 **Ratio commandes/paiements par représentant commercial** : Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.
 - 🟢 **Performance des bureaux** : Mesurer le chiffre d’affaires généré par chaque bureau.
 
-#### 📌 Ventes :
+##### 📌 Ventes
 - 🔴 **Chiffre d’affaires par mois et par région + taux d’évolution mensuel** : Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.
 - 🔴 **Produits les plus/moins vendus par catégorie** : Identifier les produits les plus performants dans chaque catégorie.
 - 🟢 **La marge brute par produit et par catégorie** : Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentables.
@@ -50,20 +50,20 @@ Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vou
 - ⚫ **Panier moyen** : Mesurer le panier moyen des commandes.
 - ⚫ **Taux de retour des clients (repeat customers)** : Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.
 
-#### 📌 Finances :
+##### 📌 Finances
 - 🔴 **Clients générant le plus/moins de revenus** : Identifier les clients générant le plus de revenus pour mieux les fidéliser.
 - 🟢 **Taux de recouvrement des créances par client** : Identifier les clients ayant un montant élevé de commandes non payées.
 - ⚫ **Croissance des ventes par trimestre** : Identifier les tendances saisonnières ou les opportunités de croissance.
 - ⚫ **Montant moyen des paiements + clients en dessous de la moyenne** : Évaluer la capacité de paiement des clients.
 - ⚫ **Taux de paiement par délai** : Identifier combien de temps les clients mettent pour payer après une commande.
 
-#### 📌 Logistique :
+##### 📌 Logistique
 - 🔴 **Stock des produits sous seuil critique** : Identifier les produits dont le stock est faible pour éviter les ruptures.
 - 🟢 **Durée moyenne de traitement des commandes + commandes au-dessus de la moyenne de livraison** : Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.
 - ⚫ **Taux d’écoulement des stocks** : Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
 - ⚫ **Taux de commandes livrées en retard** : Identifier les problèmes logistiques et améliorer les délais de livraison.
 
-### 📍 **Travail à réaliser en SQL avant l’intégration dans PowerBI :**  
+#### 📍 **Travail à réaliser en SQL avant l’intégration dans PowerBI :**  
 
 Une fois vos métriques validées en SQL, vous devez les modéliser dans Power BI afin de faciliter leur transformation en graphiques interactifs.
 Vos requêtes représentent ce qu’on appelle **les tables de faits**. Pour analyser ces données sous différents angles, il est nécessaire d’y associer **des tables de dimensions**.
@@ -99,21 +99,21 @@ Afin de faciliter leur récupération dans Power BI, vous devez créer des vues 
 - `dim_office` :  Offices ( Bureau , country…)
 - `dim_dates` : Dates pour les analyses temporelles  (Peut-être faite en SQL ou sur PowerBI)
 
-### Exemple de schéma en étoile possible :
+Exemple de schéma en étoile possible
 
 ![Schéma en Étoile](https://drive.google.com/file/d/1Ryyz3lSvNCS0zg4Fc_anS-2neVbpjjnb/view)
 
 💡 **Objectif** : Avoir une structure optimisée pour Power BI afin de faciliter la création des KPI sans refaire des calculs lourds dans Power BI.
 
-## II. Partie 2 : Construction du Dashboard dans Power BI
+### II. Partie 2 : Construction du Dashboard dans Power BI
 
-### 📌 Pourquoi utiliser Power BI après SQL ?
+#### 📌 Pourquoi utiliser Power BI après SQL ?
 Power BI va permettre de récupérer directement les vues SQL créées et de les utiliser comme des tables liées dans un modèle de données. Cela facilite :
 - ✅ La gestion des filtres et relations entre les tables
 - ✅ L’actualisation automatique des données
 - ✅ L’affichage rapide des indicateurs clés
 
-### 📍 Travail à réaliser en Power BI :
+#### 📍 Travail à réaliser en Power BI
 - Importer les vues SQL créées depuis MySQL.
 - Établir les relations entre les tables selon le schéma en étoile.
 - Créer les visualisations (graphiques, tableaux, KPI) en utilisant les métriques demandées.
@@ -122,12 +122,12 @@ Power BI va permettre de récupérer directement les vues SQL créées et de les
 
 💡 **Livrable attendu** : Un tableau de bord Power BI complet avec les indicateurs demandés, basé sur les vues SQL créées en amont.
 
-## Conclusion
+### Conclusion
 Vous devrez structurer les données en SQL avant de les exploiter dans Power BI. Ce projet vous permettra de comprendre l’importance du Data Modeling, d’optimiser les performances des requêtes et de créer un dashboard interactif qui répond aux besoins d’un directeur d’entreprise.
 
 🚀 À vous de jouer !
 
-# Ressources : 
+## Ressources
 
 Requetes pour générer la dim_date :
 
@@ -157,14 +157,12 @@ FROM date_series;
 Si des limitations techniques empêchent de répondre à certains KPI, proposez des alternatives alignées avec les objectifs métiers du client.
 {: .alert-warning }
 
-# Ressources
-
 Voici le schéma de la base de données :
 
 ![Diagram](assets/image/diagram.PNG)
 {: .text-center }
 
-# Outils
+## Outils
 
 Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données automatiquement et graphiquement. Vous pouvez proposer l'outil de votre choix (Power BI, Tableau, etc.), tant que le tableau de bord est pertinent.
 
@@ -172,15 +170,15 @@ Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données
 
 L'entreprise vous fournit également le script que vous pouvez exécuter sur votre serveur MySQL local. Les données sont identiques et s'arrêtent à la fin du mois précédent.
 
-# Base de données SQL
+## Base de données SQL
 
 Vous avez le choix entre vous connecter au serveur cloud ou déployer le script localement. Les données sont identiques dans les deux cas.
 
-## Installation locale
+### Installation locale
 
 Vous pouvez installer un serveur MySQL Community sur votre machine, ainsi que le client MySQL Workbench. La base de données est prête à être chargée dans un serveur MySQL. Connectez-vous à votre serveur via Workbench, et exécutez [tout le code dans ce fichier](https://drive.google.com/file/d/103Qm2gwiTkRFlHH4Sn-dOSAW97b8zX8U/view?usp=sharing).
 
-## Serveur cloud
+### Serveur cloud
 
 Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l'entreprise.
 
@@ -189,12 +187,12 @@ Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l'entreprise
 - **Username**: **toyscie**
 - **Password**: **WILD4Rdata!**
 
-# Connexion avec MySQL Workbench
+## Connexion avec MySQL Workbench
 
 ![MySQL_Connect](assets/image/mysql_connection.PNG)
 {: .text-center }
 
-# Livrable attendu
+## Livrable attendu
 
 Vous donnerez une courte présentation de votre tableau de bord (demandez à votre formateur la durée). La présentation doit inclure :
 
