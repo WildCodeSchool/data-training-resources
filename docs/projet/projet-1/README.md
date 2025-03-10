@@ -1,7 +1,6 @@
 ---
 title: Projet 1
 description: 'SQL & BI - Toys & Models'
-layout: tic-tac
 ---
 
 # Introduction
@@ -11,99 +10,146 @@ layout: tic-tac
 
 Vous êtes mandaté par une entreprise qui vend des modèles et des maquettes.
 
-L'entreprise possède déjà une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Vous êtes invité à explorer et découvrir cette base de données.
+L’entreprise possède déjà une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Vous êtes invité à explorer et découvrir cette base de données.
 
-**Le directeur de l'entreprise souhaite avoir un tableau de bord qu'il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l'entreprise.**
+**Le directeur de l’entreprise souhaite avoir un tableau de bord dynamique qu’il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l’entreprise.**
 
 # Objectif & Enjeux
 
 Votre tableau de bord doit s'articuler autour de ces 4 sujets principaux : **ventes**, **finances**, **logistique**, et **ressources humaines**.
+
 Les **indicateurs clés de performance** (**KPI**) ci-dessous sont requis pour ce tableau de bord, avec une distinction claire entre les priorités définies par le client :
 
-- Rouge : <span style="color:red">Indicateurs obligatoires</span>
-- Vert : <span style="color:green">Indicateurs complémentaires</span>
-- Noir : <span style="color:black">Indicateur optionnels</span>
+- 🔴 **Rouge** : Indicateurs obligatoires  
+- 🟢 **Vert** : Indicateurs complémentaires  
+- ⚫ **Noir** : Indicateurs optionnels
 
 Il est recommandé de **proposer des KPI supplémentaires**, surtout en cas d’impossibilité technique de répondre à certaines demandes. Cette partie est essentielle pour démontrer votre créativité et vos compétences en tant que data analyst.
 
-- <u><b>Ressources humaines</b></u> :
-  - <span style="color:red">Performance des représentants commerciaux</span>
+## I. Partie 1 : Calcul des Métriques en SQL
 
-    <span style="color:red">Mesurer le chiffre d'affaires généré par chaque employé chargé des ventes.</span>
+### 📌 Objectif de la Partie SQL
+Avant de passer à la création du tableau de bord dans Power BI, vous devez calculer toutes les métriques en SQL. Cela vous permettra de :
+- Valider les calculs avant de les visualiser dans Power BI.
+- Structurer les données pour faciliter leur utilisation dans Power BI.
+- Optimiser les performances en évitant des calculs lourds dans Power BI.
 
-  - <span style="color:green">Ratio commandes/paiements par représentant commercial :</span>
+### Calcul des KPI en SQL
+Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vous pouvez également ajouter des indicateurs supplémentaires si vous le souhaitez.
 
-    <span style="color:green">Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.</span>
+#### 📌 Ressources humaines :
+- 🔴 **Performance des représentants commerciaux** : Calculer le chiffre d’affaires généré par chaque employé chargé des ventes.
+- 🟢 **Ratio commandes/paiements par représentant commercial** : Identifier les écarts entre les commandes passées et les paiements reçus pour chaque représentant.
+- 🟢 **Performance des bureaux** : Mesurer le chiffre d’affaires généré par chaque bureau.
 
-  - <span style="color:black">Performance des bureaux</span> :
+#### 📌 Ventes :
+- 🔴 **Chiffre d’affaires par mois et par région + taux d’évolution mensuel** : Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.
+- 🔴 **Produits les plus/moins vendus par catégorie** : Identifier les produits les plus performants dans chaque catégorie.
+- 🟢 **La marge brute par produit et par catégorie** : Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentables.
+- ⚫ **Taux d’évolution mensuel des ventes par catégorie** : Mesurer la performance de chaque catégorie de produit dans le temps.
+- ⚫ **Panier moyen** : Mesurer le panier moyen des commandes.
+- ⚫ **Taux de retour des clients (repeat customers)** : Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.
 
-    <span style="color:black">Mesurer le chiffre d'affaire généré par chaque bureau.</span>
+#### 📌 Finances :
+- 🔴 **Clients générant le plus/moins de revenus** : Identifier les clients générant le plus de revenus pour mieux les fidéliser.
+- 🟢 **Taux de recouvrement des créances par client** : Identifier les clients ayant un montant élevé de commandes non payées.
+- ⚫ **Croissance des ventes par trimestre** : Identifier les tendances saisonnières ou les opportunités de croissance.
+- ⚫ **Montant moyen des paiements + clients en dessous de la moyenne** : Évaluer la capacité de paiement des clients.
+- ⚫ **Taux de paiement par délai** : Identifier combien de temps les clients mettent pour payer après une commande.
 
-- <u><b>Ventes</b></u> :
-  - <span style="color:red">Chiffre d'affaires par mois et par région + taux d'évolution mensuel</span> :
+#### 📌 Logistique :
+- 🔴 **Stock des produits sous seuil critique** : Identifier les produits dont le stock est faible pour éviter les ruptures.
+- 🟢 **Durée moyenne de traitement des commandes + commandes au-dessus de la moyenne de livraison** : Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.
+- ⚫ **Taux d’écoulement des stocks** : Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
+- ⚫ **Taux de commandes livrées en retard** : Identifier les problèmes logistiques et améliorer les délais de livraison.
 
-    <span style="color:red">Suivre les revenus générés par région et par mois pour identifier les tendances géographiques.</span>
+### 📍 **Travail à réaliser en SQL avant l’intégration dans PowerBI :**  
 
-  - <span style="color:red">Produits les plus/moins vendus par catégorie</span> :
+Une fois vos métriques validées en SQL, vous devez les modéliser dans Power BI afin de faciliter leur transformation en graphiques interactifs.
+Vos requêtes représentent ce qu’on appelle **les tables de faits**. Pour analyser ces données sous différents angles, il est nécessaire d’y associer **des tables de dimensions**.
 
-    <span style="color:red">Identifier les produits les plus performants dans chaque catégorie.</span>
+1. Créer une ou plusieurs tables de faits
+Les tables de faits centralisent les informations nécessaires au calcul des indicateurs de performance.
 
-  - <span style="color:green">La marge brute par produit et par catégorie</span> :
+Par exemple, une table `fact_sales` pourrait contenir :
+- **Clés étrangères** : permettant de faire le lien avec les tables de dimensions (`customer_id`, `product_id`, `employee_id`, `order_date`).
+- **Identifiants** : tels que order_id pour identifier chaque commande.
+- **Données analytiques** : toutes les informations permettant de réaliser des mesures (ex. `quantity_sold`, `unit_price`, `total_revenue`, `delivery_status`...).
+👉 Autres exemples de tables de faits :
+- `fact_payments` : regroupe les informations sur les paiements effectués par les clients.
+- `fact_inventory` : contient les données liées à la logistique et à la gestion des stocks.
 
-    <span style="color:green">Mesurer la marge brute et en déduire les produits/catégories les plus/moins rentable.</span>
+2. Créer des tables de dimensions.  
+Les tables de dimensions stockent les informations descriptives qui permettent d’analyser les faits sous différents angles.
+Exemples de tables de dimensions :
+- `dim_customers` : liste des clients avec leurs informations (`customer_id`, `customer_name`, `region`, `country`...).
+- `dim_products` : détails des produits (`product_id`, `product_name`, `category`, `unit_price`...).
+- `dim_dates` : table calendrier permettant les analyses temporelles (`date_id`, `year`, `month`, `week`, `day`...).
+Autres dimensions : `dim_employees`, `dim_offices`, `dim_managers`…
 
-  - <span style="color:green">Taux d'évolution mensuel des ventes par catégorie</span> :
+3.Créer des vues SQL
+Afin de faciliter leur récupération dans Power BI, vous devez créer des vues SQL qui préparent les tables de faits et de dimensions en amont. Cela permet d’optimiser la performance et de garantir des données prêtes à l’emploi.
 
-    <span style="color:green">Mesurer la performance de chaque catégorie de produit dans le temps.</span>
+👉 **Exemple de structure :** 
+- `fact_sales` : table de fait contenant les informations de ventes : quantité commandé, chiffre d'affaires …
+- `dim_customers` : Clients (Nom, Région,...)  
+- `dim_products` : Produits (Nom, Catégorie …)  
+- `dim_employees` : Employés (Nom, job title,...)  
+- `dim_manager` :  Managers (Nom, job title…)
+- `dim_office` :  Offices ( Bureau , country…)
+- `dim_dates` : Dates pour les analyses temporelles  (Peut-être faite en SQL ou sur PowerBI)
 
-  - <span style="color:black">Panier moyen</span> :
+### Exemple de schéma en étoile possible :
 
-    <span style="color:black">Mesurer le panier moyen des commandes.</span>
+![Schéma en Étoile](https://drive.google.com/file/d/1Ryyz3lSvNCS0zg4Fc_anS-2neVbpjjnb/view)
 
-  - <span style="color:black">Taux de retour des clients (repeat customers)</span> :
+💡 **Objectif** : Avoir une structure optimisée pour Power BI afin de faciliter la création des KPI sans refaire des calculs lourds dans Power BI.
 
-    <span style="color:black">Mesurer la fidélité des clients en identifiant ceux qui passent plusieurs commandes.</span>
+## II. Partie 2 : Construction du Dashboard dans Power BI
 
-- <u><b>Finances</b></u> :
-  - <span style="color:red">Clients générant le plus/moins de revenus</span> :
+### 📌 Pourquoi utiliser Power BI après SQL ?
+Power BI va permettre de récupérer directement les vues SQL créées et de les utiliser comme des tables liées dans un modèle de données. Cela facilite :
+- ✅ La gestion des filtres et relations entre les tables
+- ✅ L’actualisation automatique des données
+- ✅ L’affichage rapide des indicateurs clés
 
-    <span style="color:red">Identifier les clients générant le plus de revenus pour mieux les fidéliser.</span>
+### 📍 Travail à réaliser en Power BI :
+- Importer les vues SQL créées depuis MySQL.
+- Établir les relations entre les tables selon le schéma en étoile.
+- Créer les visualisations (graphiques, tableaux, KPI) en utilisant les métriques demandées.
+- Créer des filtres interactifs pour explorer les données en fonction des régions, produits, employés, etc.
+- S’assurer que le tableau de bord est actualisable quotidiennement.
 
-  - <span style="color:green">Taux de recouvrement des créances par client</span> :
+💡 **Livrable attendu** : Un tableau de bord Power BI complet avec les indicateurs demandés, basé sur les vues SQL créées en amont.
 
-    <span style="color:green">Identifier les clients ayant un montant élevé de commandes non payées.</span>
+## Conclusion
+Vous devrez structurer les données en SQL avant de les exploiter dans Power BI. Ce projet vous permettra de comprendre l’importance du Data Modeling, d’optimiser les performances des requêtes et de créer un dashboard interactif qui répond aux besoins d’un directeur d’entreprise.
 
-  - <span style="color:green">Croissance des ventes par trimestre</span> :
+🚀 À vous de jouer !
 
-    <span style="color:green">Identifier les tendances saisonnières ou les opportunités de croissance.</span>
+# Ressources : 
 
-  - <span style="color:black">Montant moyen des paiements + clients en dessous de la moyenne</span> :
+Requetes pour générer la dim_date :
 
-    <span style="color:black">Évaluer la capacité de paiement des clients.</span>
+CREATE VIEW DIM_DATES AS
+WITH RECURSIVE date_series AS (
+    SELECT DATE('2019-01-01') AS full_date
+    UNION ALL
+    SELECT DATE_ADD(full_date, INTERVAL 1 DAY)
+    FROM date_series
+    WHERE full_date < DATE('2025-12-31')
+)
+SELECT
+    full_date AS order_date,
+    YEAR(full_date) AS year,
+    MONTH(full_date) AS month,
+    QUARTER(full_date) AS quarter,
+    DATE_FORMAT(full_date, '%M') AS month_name,
+    WEEK(full_date, 1) AS week_number,
+    DAY(full_date) AS day_of_month,
+    DAYNAME(full_date) AS day_name
+FROM date_series;
 
-  - <span style="color:black">Taux de paiement par délai</span> :
-
-    <span style="color:black">Identifier combien de temps les clients mettent pour payer après une commande.</span>
-
-- <u><b>Logistique</b></u> :
-
-  - <span style="color:red">Stock des produits sous seuil critique</span> :
-
-    <span style="color:red">Identifier les produits dont le stock est faible pour éviter les ruptures.</span>
-
-  - <span style="color:green">Durée moyenne de traitement des commandes + commandes au-dessus de la moyenne de livraison</span> :
-
-    <span style="color:green">Mesurer l’efficacité opérationnelle en analysant le temps entre la date de commande et la date d’expédition.</span>
-
-  - <span style="color:green">Taux d’écoulement des stocks</span> :
-
-    <span style="color:green">Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.</span>
-
-  - <span style="color:black">Taux de commandes livrées en retard</span> :
-
-    <span style="color:black">Identifier les problèmes logistiques et améliorer les délais de livraison.</span>
-
-Il arrive parfois que certains indicateurs métiers ne soient pas réalisables techniquement. C'est à vous d'expliquer pourquoi et de proposer vos propres idées pour répondre aux besoins métiers.
 
 **Note importante** : Les stocks sont mis à jour tous les deux mois. Par conséquent, les données actuelles reflètent uniquement les deux derniers mois.
 {: .alert-info }
