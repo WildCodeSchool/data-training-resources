@@ -141,6 +141,7 @@ Si des limitations techniques empêchent de répondre à certains KPI, proposez 
 Requetes pour générer la dim_date :
 
 ```sql
+SET @@cte_max_recursion_depth = 3000;
 CREATE VIEW DIM_DATES AS
 WITH RECURSIVE date_series AS (
     SELECT DATE('2019-01-01') AS full_date
