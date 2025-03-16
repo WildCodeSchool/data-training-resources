@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Fond avec ombre portée légère -->
+  <rect width="800" height="400" fill="#f8f9fa" rx="10" ry="10"/>
+  <rect x="5" y="5" width="790" height="390" fill="#ffffff" rx="8" ry="8" stroke="#e9ecef" stroke-width="1"/>
+  
+  <!-- Titre du diagramme avec sous-titre -->
+  <text x="400" y="40" font-family="Arial" font-size="22" text-anchor="middle" font-weight="bold" fill="#2c3e50">Modèle Conceptuel de Données (MCD)</text>
+  <text x="400" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="#6c757d">Système de Gestion des Commandes</text>
+  
+  <!-- Entité Client -->
+  <rect x="80" y="120" width="180" height="160" fill="#e3f2fd" stroke="#1565c0" stroke-width="2" rx="0" ry="0"/>
+  <rect x="80" y="120" width="180" height="40" fill="#1565c0" stroke="#1565c0" stroke-width="0" rx="0" ry="0"/>
+  <text x="170" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">CLIENT</text>
+  
+  <!-- Ligne de séparation -->
+  <line x1="80" y1="160" x2="260" y2="160" stroke="#1565c0" stroke-width="2"/>
+  
+  <!-- Entité Produit -->
+  <rect x="540" y="120" width="180" height="160" fill="#e3f2fd" stroke="#1565c0" stroke-width="2" rx="0" ry="0"/>
+  <rect x="540" y="120" width="180" height="40" fill="#1565c0" stroke="#1565c0" stroke-width="0" rx="0" ry="0"/>
+  <text x="630" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">PRODUIT</text>
+  
+  <!-- Ligne de séparation -->
+  <line x1="540" y1="160" x2="720" y2="160" stroke="#1565c0" stroke-width="2"/>
+  
+  <!-- Triangle pour Association - bien apparent et sans chevauchement -->
+  <text x="400" y="120" font-family="Arial" font-size="14" text-anchor="middle" fill="#c62828" font-weight="bold">ASSOCIATION</text>
+  <!-- Triangle plus grand, plus visible, positionné plus haut -->
+  <polygon points="400,148 385,128 415,128" fill="#c62828"/>
+  
+  <!-- Association Commander avec style ellipse -->
+  <ellipse cx="400" cy="200" rx="80" ry="50" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+  <text x="400" y="200" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#c62828">COMMANDER</text>
+  
+  <!-- Lignes reliant Client et Commander avec des lignes parfaitement droites -->
+  <line x1="260" y1="200" x2="320" y2="200" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+  
+  <!-- Lignes reliant Produit et Commander avec des lignes parfaitement droites -->
+  <line x1="480" y1="200" x2="540" y2="200" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+</svg>
