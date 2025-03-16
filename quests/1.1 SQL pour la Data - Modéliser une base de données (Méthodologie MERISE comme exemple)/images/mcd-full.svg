@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Fond avec ombre portée légère -->
+  <rect width="800" height="400" fill="#f8f9fa" rx="10" ry="10"/>
+  <rect x="5" y="5" width="790" height="390" fill="#ffffff" rx="8" ry="8" stroke="#e9ecef" stroke-width="1"/>
+  
+  <!-- Titre du diagramme avec sous-titre -->
+  <text x="400" y="40" font-family="Arial" font-size="22" text-anchor="middle" font-weight="bold" fill="#2c3e50">Modèle Conceptuel de Données (MCD)</text>
+  <text x="400" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="#6c757d">Système de Gestion des Commandes</text>
+  
+  <!-- Entité Client -->
+  <rect x="80" y="120" width="180" height="160" fill="#e3f2fd" stroke="#1565c0" stroke-width="2" rx="0" ry="0"/>
+  <rect x="80" y="120" width="180" height="40" fill="#1565c0" stroke="#1565c0" stroke-width="0" rx="0" ry="0"/>
+  <text x="170" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">CLIENT</text>
+  
+  <!-- Attributs Client -->
+  <rect x="80" y="160" width="180" height="120" fill="#e3f2fd" stroke="#1565c0" stroke-width="0"/>
+  
+  <!-- Division des attributs en deux colonnes -->
+  <text x="90" y="178" font-family="Arial" font-size="14" fill="#37474f">numéro</text>
+  <text x="250" y="178" font-family="Arial" font-size="12" text-anchor="end" fill="#6c757d" font-style="italic">clé primaire</text>
+  
+  <text x="90" y="198" font-family="Arial" font-size="14" fill="#37474f">nom</text>
+  
+  <text x="90" y="218" font-family="Arial" font-size="14" fill="#37474f">prénom</text>
+  
+  <text x="90" y="238" font-family="Arial" font-size="14" fill="#37474f">email</text>
+  
+  <text x="90" y="258" font-family="Arial" font-size="14" fill="#37474f">téléphone</text>
+  
+  <!-- Ligne de séparation -->
+  <line x1="80" y1="160" x2="260" y2="160" stroke="#1565c0" stroke-width="2"/>
+  
+  <!-- Entité Produit -->
+  <rect x="540" y="120" width="180" height="160" fill="#e3f2fd" stroke="#1565c0" stroke-width="2" rx="0" ry="0"/>
+  <rect x="540" y="120" width="180" height="40" fill="#1565c0" stroke="#1565c0" stroke-width="0" rx="0" ry="0"/>
+  <text x="630" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">PRODUIT</text>
+  
+  <!-- Attributs Produit -->
+  <rect x="540" y="160" width="180" height="120" fill="#e3f2fd" stroke="#1565c0" stroke-width="0"/>
+  
+  <!-- Division des attributs en deux colonnes -->
+  <text x="550" y="178" font-family="Arial" font-size="14" fill="#37474f">référence</text>
+  <text x="710" y="178" font-family="Arial" font-size="12" text-anchor="end" fill="#6c757d" font-style="italic">clé primaire</text>
+  
+  <text x="550" y="198" font-family="Arial" font-size="14" fill="#37474f">nom</text>
+  
+  <text x="550" y="218" font-family="Arial" font-size="14" fill="#37474f">description</text>
+  
+  <text x="550" y="238" font-family="Arial" font-size="14" fill="#37474f">prix</text>
+  
+  <text x="550" y="258" font-family="Arial" font-size="14" fill="#37474f">stock</text>
+  
+  <!-- Ligne de séparation -->
+  <line x1="540" y1="160" x2="720" y2="160" stroke="#1565c0" stroke-width="2"/>
+  
+  <!-- Association Commander avec style ellipse -->
+  <ellipse cx="400" cy="200" rx="80" ry="50" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+  <text x="400" y="185" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#c62828">COMMANDER</text>
+  
+  <!-- Attributs de l'association - à l'intérieur de l'ellipse -->
+  <text x="400" y="205" font-family="Arial" font-size="12" text-anchor="middle" fill="#c62828">date_commande</text>
+  <text x="400" y="220" font-family="Arial" font-size="12" text-anchor="middle" fill="#c62828">quantité</text>
+  <text x="400" y="235" font-family="Arial" font-size="12" text-anchor="middle" fill="#c62828">prix_unitaire</text>
+  
+  <!-- Lignes reliant Client et Commander avec des lignes parfaitement droites -->
+  <line x1="260" y1="200" x2="320" y2="200" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+  <text x="275" y="190" font-family="Arial" font-size="14" fill="#000000">0,n</text>
+  
+  <!-- Lignes reliant Produit et Commander avec des lignes parfaitement droites -->
+  <line x1="480" y1="200" x2="540" y2="200" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+  
+  <!-- Ajout d'un fond blanc pour éviter le chevauchement, repositionné -->
+  <rect x="495" y="170" width="30" height="22" fill="#ffffff"/>
+  <text x="510" y="187" font-family="Arial" font-size="14" fill="#000000">0,n</text>
+
+  
+  <!-- Légende -->
+  <rect x="270" y="320" width="260" height="30" fill="#f1f8e9" stroke="#558b2f" stroke-width="1" rx="5" ry="5"/>
+  <text x="400" y="340" font-family="Arial" font-size="14" text-anchor="middle" fill="#33691e">Cardinalité (0,n) : Plusieurs à Plusieurs</text>
+</svg>
