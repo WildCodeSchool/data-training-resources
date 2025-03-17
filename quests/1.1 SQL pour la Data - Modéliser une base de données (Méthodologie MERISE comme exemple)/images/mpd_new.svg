@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <!-- Fond et cadre -->
+  <rect width="1200" height="500" fill="#f8f9fa" rx="10" ry="10"/>
+  <rect x="5" y="5" width="1190" height="490" fill="#ffffff" rx="8" ry="8" stroke="#e9ecef" stroke-width="1"/>
+  
+  <!-- Titre principal -->
+  <text x="600" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold" fill="#2c3e50">
+    Modèle Physique de Données (MPD)
+  </text>
+  <text x="600" y="65" font-family="Arial" font-size="16" text-anchor="middle" fill="#6c757d">
+    Client - Commande - Produit
+  </text>
+  
+  <!-- ========================== TABLE CLIENT ========================== -->
+  <rect x="80" y="120" width="220" height="220" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <rect x="80" y="120" width="220" height="40" fill="#1565c0"/>
+  <text x="190" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">
+    Client
+  </text>
+  <line x1="80" y1="160" x2="300" y2="160" stroke="#1565c0" stroke-width="2"/>
+  <text x="90" y="180" font-family="Arial" font-size="14" fill="#37474f">
+    Numéro (PK) : INT
+  </text>
+  <text x="90" y="200" font-family="Arial" font-size="14" fill="#37474f">
+    Nom : VARCHAR(100)
+  </text>
+  <text x="90" y="220" font-family="Arial" font-size="14" fill="#37474f">
+    Prénom : VARCHAR(100)
+  </text>
+  <text x="90" y="240" font-family="Arial" font-size="14" fill="#37474f">
+    Email : VARCHAR(100)
+  </text>
+  <text x="90" y="260" font-family="Arial" font-size="14" fill="#37474f">
+    Téléphone : VARCHAR(20)
+  </text>
+  
+  <!-- ========================== TABLE COMMANDE ========================== -->
+  <rect x="480" y="120" width="320" height="300" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <rect x="480" y="120" width="320" height="40" fill="#1565c0"/>
+  <text x="640" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">
+    Commande
+  </text>
+  <line x1="480" y1="160" x2="800" y2="160" stroke="#1565c0" stroke-width="2"/>
+  <text x="490" y="180" font-family="Arial" font-size="14" fill="#37474f">
+    Numéro (PK) : INT
+  </text>
+  <text x="490" y="205" font-family="Arial" font-size="14" fill="#37474f">
+    Date_commande : DATE
+  </text>
+  <text x="490" y="230" font-family="Arial" font-size="14" fill="#37474f">
+    Quantité : INT
+  </text>
+  <text x="490" y="255" font-family="Arial" font-size="14" fill="#37474f">
+    Numéro_Client (FK → Client(Numéro)) : INT
+  </text>
+  <text x="490" y="280" font-family="Arial" font-size="14" fill="#37474f">
+    Référence_produit (FK → Produit(Référence)) : INT
+  </text>
+  
+  <!-- ========================== TABLE PRODUIT ========================== -->
+  <rect x="880" y="120" width="220" height="220" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <rect x="880" y="120" width="220" height="40" fill="#1565c0"/>
+  <text x="990" y="147" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold" fill="white">
+    Produit
+  </text>
+  <line x1="880" y1="160" x2="1100" y2="160" stroke="#1565c0" stroke-width="2"/>
+  <text x="890" y="180" font-family="Arial" font-size="14" fill="#37474f">
+    Référence (PK) : INT
+  </text>
+  <text x="890" y="200" font-family="Arial" font-size="14" fill="#37474f">
+    Nom : VARCHAR(100)
+  </text>
+  <text x="890" y="220" font-family="Arial" font-size="14" fill="#37474f">
+    Description : TEXT
+  </text>
+  <text x="890" y="240" font-family="Arial" font-size="14" fill="#37474f">
+    Prix_unitaire : DECIMAL(10,2)
+  </text>
+  <text x="890" y="260" font-family="Arial" font-size="14" fill="#37474f">
+    Stock : INT
+  </text>
+  
+  <!-- ========================== RELATIONS ========================== -->
+  <!-- Relation : Commande.Numéro_Client → Client.Numéro -->
+  <line x1="480" y1="255" x2="300" y2="255" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+  <!-- Relation : Commande.Référence_produit → Produit.Référence -->
+  <line x1="800" y1="280" x2="880" y2="280" stroke="#000000" stroke-width="1.5" stroke-linecap="square"/>
+</svg>
