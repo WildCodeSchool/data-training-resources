@@ -25,7 +25,10 @@ Images de 1.2
 * 5_utm.jpg
   
 Images de 1.3
-  à venir…
+
+* 1_pip.jpg
+* 2_dependecies.png
+* 3_virtual_env.jpg
   
 Images de 1.4
   à venir…
