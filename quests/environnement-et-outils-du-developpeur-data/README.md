@@ -15,6 +15,9 @@ Images de 1.1
 * 6_ouvrir_espace_travail.png
 * 7_ouvrir_fichier.png
 * 8_exectuer_code.png
+* 9_ajout_breakpoint.png
+* 10_run_and_debug.png
+* 11_execution_ligne.png
 
 Images de 1.2
 
