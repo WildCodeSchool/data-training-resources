@@ -34,4 +34,10 @@ Images de 1.3
 * 3_virtual_env.jpg
   
 Images de 1.4
-  à venir…
+
+* 1_ouvrir_terminal.png
+* 2_choisir_terminal.png
+* 3_settings.png
+* 4_terminal_vs_code.png
+* 5_creer_virtual_env.png
+* 6_virtual_env_active.png
