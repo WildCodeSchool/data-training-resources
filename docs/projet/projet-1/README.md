@@ -29,10 +29,9 @@ Il est recommandé de **proposer des KPI supplémentaires**, surtout en cas d’
 ## I. Partie 1 : Calcul des Métriques en SQL
 
 ### 📌 Objectif de la Partie SQL
-Avant de passer à la création du tableau de bord dans Power BI, vous devez calculer toutes les métriques en SQL. Cela vous permettra de :
-- Valider les calculs avant de les visualiser dans Power BI.
-- Structurer les données pour faciliter leur utilisation dans Power BI.
-- Optimiser les performances en évitant des calculs lourds dans Power BI.
+Tout d'abord, vous allez tester et étendre vos  compétences en **SQL** en récupérant tous ces **KPIs** ! Cela va vous permettre de progresser dans l'écriture de requêtes complexes, ce qui est **essentiel** ! 
+
+En effet, être capable de requêter les données de manière efficace est la fondation **indispensable** pour pouvoir **valoriser** la donnée ! D'ailleurs, les entretiens techniques de data analyst en entreprise sont souvent basés sur des exercices de requêtage SQL, pour ces même raisons ! 
 
 ### Calcul des KPI en SQL
 Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vous pouvez également ajouter des indicateurs supplémentaires si vous le souhaitez.
@@ -63,10 +62,25 @@ Vous devez écrire des requêtes SQL pour calculer les indicateurs suivants. Vou
 - ⚫ **Taux d’écoulement des stocks** : Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
 - ⚫ **Taux de commandes livrées en retard** : Identifier les problèmes logistiques et améliorer les délais de livraison.
 
-## 📍 **Travail à réaliser en SQL avant l’intégration dans PowerBI :**  
+### I. Partie 2 : Calcul des Métriques en SQL
+Après avoir développé vos compétences en SQL pour écrire des requêtes, nous allons maintenant aborder un autre aspect essentiel : l'optimisation des requêtes pour Power BI.
 
-Une fois vos métriques validées en SQL, vous devez les modéliser dans Power BI afin de faciliter leur transformation en graphiques interactifs.
-Vos requêtes représentent ce qu’on appelle **les tables de faits**. Pour analyser ces données sous différents angles, il est nécessaire d’y associer **des tables de dimensions**.
+Power BI fonctionne beaucoup mieux avec un schéma analytique, tel qu'un modèle en étoile, plutôt qu'avec un schéma transactionnel.
+
+> Mais qu'est-ce qu'un schéma transactionnel et un schéma analytique ?
+
+Le **schéma transactionnel** (OLTP) est conçu pour gérer les données de manière efficace et cohérente, en évitant la redondance et en garantissant l'intégrité des informations, même lorsqu'elles sont mises à jour. Tout le travail de modélisation que nous avons réalisé jusqu'ici avec la méthode MERISE visait à construire ce type de schéma. 
+Son objectif principal est de faciliter les opérations transactionnelles comme l'ajout, la modification et la suppression de données. Toutefois, pour l'analyse — comme dans un projet de tableau de bord — ce schéma devient moins performant, car il nécessite de nombreuses jointures, ce qui ralentit considérablement les requêtes et l'affichage des résultats !
+
+En revanche, le **schéma analytique** (OLAP) est optimisé pour l'analyse des données, c'est ce dont nous avons besoin ! Dans ce modèle, nous **choisissons** d'introduire des redondances en regroupant toutes les informations et métriques cruciales dans une seule table appelée **table de faits**. Dans les autres tables, nous allons placer les données descriptives et non numériques, appelée **tables de dimensions**. 
+Ce compromis améliore significativement la performance. Moins de jointures sont nécessaires, les calculs sont optimisés, et les performances dans Power BI sont nettement meilleures. En résumé, un modèle analytique permet de tirer pleinement parti des capacités de Power BI pour la visualisation et l’analyse des données.
+
+💡 **Objectif** 
+L'enjeu de cette deuxième partie va donc être de transformer notre modèle **transactionnel** (OLTP) en modèle **analytique** (OLAP) pour faciliter notre travail sur PowerBI ! 
+
+Afin de faciliter leur récupération dans Power BI, vous devez créer des **vues SQL** qui préparent les **tables de faits** et **tables de dimensions** en amont. Cela permettra d’optimiser la performance et de garantir des données prêtes à l’emploi !
+
+### 📌Méthode à suivre pour créer les tables de faits et de dimensions 
 
 **1. Créer une ou plusieurs tables de faits**
    
@@ -89,10 +103,6 @@ Exemples de tables de dimensions :
 - `dim_dates` : table calendrier permettant les analyses temporelles (`date_id`, `year`, `month`, `week`, `day`...).
 Autres dimensions : `dim_employees`, `dim_offices`, `dim_managers`…
 
-**3.Créer des vues SQL**
-
-Afin de faciliter leur récupération dans Power BI, vous devez créer des vues SQL qui préparent les tables de faits et de dimensions en amont. Cela permet d’optimiser la performance et de garantir des données prêtes à l’emploi.
-
 👉 **Exemple de structure :** 
 - `fact_sales` : table de fait contenant les informations de ventes : quantité commandé, chiffre d'affaires …
 - `dim_customers` : Clients (Nom, Région,...)  
@@ -106,9 +116,7 @@ Exemple de schéma en étoile possible
 
 ![Schéma en Étoile](assets/image/star.png)
 
-💡 **Objectif** : Avoir une structure optimisée pour Power BI afin de faciliter la création des KPI sans refaire des calculs lourds dans Power BI.
-
-## II. Partie 2 : Construction du Dashboard dans Power BI
+## II : Construction du Dashboard dans Power BI
 
 ### 📌 Pourquoi utiliser Power BI après SQL ?
 Power BI va permettre de récupérer directement les vues SQL créées et de les utiliser comme des tables liées dans un modèle de données. Cela facilite :
@@ -199,7 +207,8 @@ Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l'entreprise
 
 ## Livrable attendu
 
-Vous donnerez une courte présentation de votre tableau de bord (demandez à votre formateur la durée). La présentation doit inclure :
+Vous fournirez le fichier SQL des requêtes de la partie 1.1.
+Ensuite, vous donnerez une courte présentation de votre tableau de bord (demandez à votre formateur la durée). La présentation doit inclure :
 
 - **Vue d'ensemble du contexte, présentation de l'équipe et des outils utilisés.**
 - **Démonstration de votre tableau de bord, et interprétation des KPI métiers.**
