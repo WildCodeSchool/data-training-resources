@@ -125,6 +125,29 @@ L'objectif n'est pas d'avoir une interface parfaite d'un point de vue esthétiqu
 
 ## Documentation
 
+### Structure du Dataset Spotify
+
+Le dataset Spotify contient les colonnes suivantes :
+
+- **genre** (string) : Le genre musical associé au morceau
+- **artist_name** (string) : Le nom de l'artiste
+- **track_name** (string) : Le nom du morceau
+- **track_id** (string) : L'identifiant Spotify du morceau
+- **popularity** (int) : Score de popularité de 0 à 100
+- **acousticness** (float) : Mesure de 0 à 1 indiquant si la chanson est acoustique
+- **danceability** (float) : Mesure de 0 à 1 indiquant si la chanson est adaptée à la danse
+- **duration_ms** (int) : Durée du morceau en millisecondes
+- **energy** (float) : Mesure de 0 à 1 représentant l'intensité perceptible
+- **instrumentalness** (float) : Mesure de 0 à 1 prédisant si un morceau ne contient pas de voix
+- **key** (int) : La tonalité du morceau
+- **liveness** (float) : Mesure de 0 à 1 indiquant la probabilité que le morceau ait été enregistré en présence d'un public
+- **loudness** (float) : Le volume global d'un morceau en décibels (dB)
+- **mode** (int) : Modalité (majeur = 1, mineur = 0) du morceau
+- **speechiness** (float) : Mesure de 0 à 1 détectant la présence de paroles
+- **tempo** (float) : Le tempo estimé en battements par minute (BPM)
+- **time_signature** (int) : Une estimation de la signature rythmique
+- **valence** (float) : Mesure de 0 à 1 décrivant la positivité musicale transmise par un morceau
+
 ### Spotify Audio Features
 
 Le dataset Spotify contient plusieurs caractéristiques audio pour chaque chanson. Voici les principales features que vous utiliserez :
@@ -161,29 +184,6 @@ Pour enrichir votre dataset avec des informations sur l'humeur et les activités
 - **Conduite** : Énergie modérée (0.5-0.7), valence modérée à élevée (0.5-0.8)
 
 Ces mappings initiaux devront être affinés par vos analyses et éventuellement complétés par d'autres sources de données.
-
-### Structure du Dataset Spotify
-
-Le dataset Spotify contient les colonnes suivantes :
-
-- **genre** (string) : Le genre musical associé au morceau
-- **artist_name** (string) : Le nom de l'artiste
-- **track_name** (string) : Le nom du morceau
-- **track_id** (string) : L'identifiant Spotify du morceau
-- **popularity** (int) : Score de popularité de 0 à 100
-- **acousticness** (float) : Mesure de 0 à 1 indiquant si la chanson est acoustique
-- **danceability** (float) : Mesure de 0 à 1 indiquant si la chanson est adaptée à la danse
-- **duration_ms** (int) : Durée du morceau en millisecondes
-- **energy** (float) : Mesure de 0 à 1 représentant l'intensité perceptible
-- **instrumentalness** (float) : Mesure de 0 à 1 prédisant si un morceau ne contient pas de voix
-- **key** (int) : La tonalité du morceau
-- **liveness** (float) : Mesure de 0 à 1 indiquant la probabilité que le morceau ait été enregistré en présence d'un public
-- **loudness** (float) : Le volume global d'un morceau en décibels (dB)
-- **mode** (int) : Modalité (majeur = 1, mineur = 0) du morceau
-- **speechiness** (float) : Mesure de 0 à 1 détectant la présence de paroles
-- **tempo** (float) : Le tempo estimé en battements par minute (BPM)
-- **time_signature** (int) : Une estimation de la signature rythmique
-- **valence** (float) : Mesure de 0 à 1 décrivant la positivité musicale transmise par un morceau
 
 ### API Complémentaires
 
