@@ -166,23 +166,44 @@ Le dataset Spotify contient plusieurs caractéristiques audio pour chaque chanso
 
 ### Enrichissement des Données
 
-Pour enrichir votre dataset avec des informations sur l'humeur et les activités, plusieurs approches sont possibles :
+L'un des défis majeurs de ce projet est l'enrichissement des données avec des informations sur l'humeur et les activités qui ne sont pas explicitement présentes dans le dataset original. Voici une méthodologie pour aborder ce problème :
 
-#### Humeurs (exemples) :
-- **Joyeux/Positif** : Forte valence (>0.7), haute énergie (>0.6)
-- **Triste/Mélancolique** : Faible valence (<0.4), faible énergie (<0.4)
-- **Énergique/Excitant** : Haute énergie (>0.8), tempo élevé (>120 BPM)
-- **Calme/Relaxant** : Forte acousticness (>0.7), faible énergie (<0.4)
-- **Nostalgique** : Valence moyenne (0.4-0.6), instrumentalness modérée
+#### Méthodologie d'enrichissement :
 
-#### Activités (exemples) :
-- **Sport/Workout** : Énergie très élevée (>0.8), tempo élevé (>120 BPM), danceability élevée (>0.7)
-- **Concentration/Travail** : Faible speechiness (<0.2), instrumentalness élevée (>0.6)
-- **Méditation/Relaxation** : Acousticness élevée (>0.8), énergie très faible (<0.3)
-- **Fête/Soirée** : Danceability très élevée (>0.8), énergie élevée (>0.7)
-- **Conduite** : Énergie modérée (0.5-0.7), valence modérée à élevée (0.5-0.8)
+1. **Étude préliminaire et recherche** :
+   - Recherchez des études existantes sur la perception émotionnelle de la musique
+   - Explorez la littérature scientifique sur les relations entre caractéristiques audio et réponses émotionnelles
+   - Analysez comment d'autres services de musique catégorisent leurs contenus
 
-Ces mappings initiaux devront être affinés par vos analyses et éventuellement complétés par d'autres sources de données.
+2. **Analyse exploratoire des données** :
+   - Examinez la distribution des caractéristiques audio (valence, energy, tempo, etc.)
+   - Identifiez des corrélations entre ces caractéristiques
+   - Visualisez des clusters naturels dans les données
+
+3. **Définition des catégories d'humeur et d'activités** :
+   - Établissez une liste d'humeurs principales pertinentes pour votre application
+   - Définissez les activités les plus demandées par les utilisateurs cibles
+   - Réfléchissez aux chevauchements possibles entre certaines catégories
+
+4. **Élaboration des règles de classification** :
+   - Pour chaque humeur/activité, réfléchissez aux caractéristiques audio qui pourraient y être associées
+   - Créez des règles combinant plusieurs caractéristiques (opérateurs AND, OR, seuils adaptés)
+   - Testez vos règles sur un échantillon de chansons connues pour vérifier leur pertinence
+
+5. **Validation et itération** :
+   - Testez vos classifications sur un petit panel d'utilisateurs
+   - Ajustez vos règles en fonction des retours
+   - Envisagez des approches plus avancées (apprentissage supervisé) si nécessaire
+
+#### Questions à vous poser :
+
+- Quelles caractéristiques audio semblent les plus pertinentes pour identifier une humeur spécifique?
+- Comment combiner plusieurs attributs pour obtenir une classification plus précise?
+- Quels genres musicaux sont généralement associés à certaines activités?
+- Comment gérer les cas ambigus ou les chansons qui pourraient appartenir à plusieurs catégories?
+- Quelles sources externes pourraient vous aider à valider vos classifications?
+
+L'objectif est de développer votre propre système de classification basé sur une réflexion approfondie et des tests empiriques, plutôt que d'utiliser des règles prédéfinies. Cette approche vous permettra de mieux comprendre les nuances de la perception musicale et d'affiner continuellement votre système.
 
 ### API Complémentaires
 
