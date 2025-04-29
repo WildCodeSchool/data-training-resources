@@ -6,8 +6,7 @@ layout: default
 
 ## Introduction
 
-![Header](assets/image/spotify_header.PNG)
-{: .text-center }
+![Header](assets/image/spotify_header.png)
 
 « [Spotify](https://fr.wikipedia.org/wiki/Spotify) est un service suédois de streaming musical sous la forme d'un logiciel propriétaire et d'un site web. Cette plateforme de distribution numérique permet une écoute quasi instantanée de fichiers musicaux. »
 
@@ -19,10 +18,7 @@ Au cœur de l'expérience Spotify se trouve son système de recommandation sophi
 
 ## Objectif & Enjeux
 
-![MusicMap](assets/image/music_map.PNG)
-{: .text-center }
-
-Vous êtes un Data Scientist freelance. Une start-up française spécialisée dans les applications musicales vous contacte. Elle souhaite lancer une nouvelle application qui se démarque de la concurrence par ses recommandations musicales innovantes.
+Vous êtes un AI Engineer junior freelance. Une start-up française spécialisée dans les applications musicales vous contacte. Elle souhaite lancer une nouvelle application qui se démarque de la concurrence par ses recommandations musicales innovantes.
 
 La start-up vous demande de développer trois fonctionnalités principales :
 
@@ -168,18 +164,26 @@ Ces mappings initiaux devront être affinés par vos analyses et éventuellement
 
 ### Structure du Dataset Spotify
 
-Le dataset Spotify contient généralement les colonnes suivantes :
+Le dataset Spotify contient les colonnes suivantes :
 
-- **id** (string) : L'identifiant Spotify du morceau
-- **name** (string) : Le nom du morceau
-- **artists** (string) : Le(s) artiste(s) du morceau
-- **album_name** (string) : Le nom de l'album
-- **release_date** (string) : La date de sortie de l'album
+- **genre** (string) : Le genre musical associé au morceau
+- **artist_name** (string) : Le nom de l'artiste
+- **track_name** (string) : Le nom du morceau
+- **track_id** (string) : L'identifiant Spotify du morceau
 - **popularity** (int) : Score de popularité de 0 à 100
+- **acousticness** (float) : Mesure de 0 à 1 indiquant si la chanson est acoustique
+- **danceability** (float) : Mesure de 0 à 1 indiquant si la chanson est adaptée à la danse
 - **duration_ms** (int) : Durée du morceau en millisecondes
-- **explicit** (boolean) : Si le morceau contient des paroles explicites
-- [Caractéristiques audio détaillées ci-dessus]
-- **genres** (array) : Les genres associés à l'artiste (peut nécessiter un enrichissement)
+- **energy** (float) : Mesure de 0 à 1 représentant l'intensité perceptible
+- **instrumentalness** (float) : Mesure de 0 à 1 prédisant si un morceau ne contient pas de voix
+- **key** (int) : La tonalité du morceau
+- **liveness** (float) : Mesure de 0 à 1 indiquant la probabilité que le morceau ait été enregistré en présence d'un public
+- **loudness** (float) : Le volume global d'un morceau en décibels (dB)
+- **mode** (int) : Modalité (majeur = 1, mineur = 0) du morceau
+- **speechiness** (float) : Mesure de 0 à 1 détectant la présence de paroles
+- **tempo** (float) : Le tempo estimé en battements par minute (BPM)
+- **time_signature** (int) : Une estimation de la signature rythmique
+- **valence** (float) : Mesure de 0 à 1 décrivant la positivité musicale transmise par un morceau
 
 ### API Complémentaires
 
