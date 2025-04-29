@@ -36,8 +36,7 @@ Sur la base de ces informations, vous devrez développer une stratégie d'enrich
 
 ## Objectif & Enjeux (suite)
 
-![ML Logo](assets/image/ml_music_logo.PNG)
-{: .text-center }
+![ML Logo](assets/image/ML_logo.png)
 
 Après cette étape analytique et d'enrichissement, vous utiliserez des **algorithmes de machine learning** pour développer les trois fonctionnalités de recommandation demandées.
 
