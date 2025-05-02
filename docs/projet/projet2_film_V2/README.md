@@ -7,7 +7,6 @@ layout: default
 ## Introduction
 
 ![Header](assets/image/header.png)
-{: .text-center }
 
 « [Netflix](https://fr.wikipedia.org/wiki/Netflix) est un service de diffusion en streaming qui permet à ses membres de regarder une grande variété de séries TV, films, documentaires, etc. sur des milliers d'appareils connectés à Internet. »
 
@@ -38,7 +37,6 @@ Sur la base de ces informations, vous pourrez affiner vos recommandations pour m
 ## Objectif & Enjeux (suite)
 
 ![ML Logo](assets/image/sci-kit_learn_logo.png)
-{: .text-center }
 
 Après cette étape analytique, vous utiliserez des **algorithmes de machine learning** pour développer les trois fonctionnalités de recommandation demandées.
 
